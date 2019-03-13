@@ -1,3 +1,7 @@
+*.codekit
+*.codekit3
+*.scssc
+
 # System files
 # ------------
 
