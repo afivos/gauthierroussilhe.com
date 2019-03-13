@@ -1,0 +1,16 @@
+/**
+ * Basic typography style for copy text
+ */
+body {
+  color: $text-color;
+  font-family: $text-font-stack;
+  //font: normal 125% / 1.4 $text-font-stack;
+}
+
+.text-subtle {
+	color: $mid-grey;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	font-weight: normal;
+}

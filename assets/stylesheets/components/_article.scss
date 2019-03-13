@@ -1,0 +1,159 @@
+// -----------------------------------------------------------------------------
+// This file contains all styles related to the article component.
+// -----------------------------------------------------------------------------
+
+article.article-header {
+	margin-top: 3rem;
+
+	h1.article-title {
+		margin-bottom: 0;
+	}
+
+	h3.article-subtitle {
+		margin-top: 1rem;
+		margin-bottom: 2rem;
+		font-style: italic;
+	}
+
+	figure {
+		margin-top: 0;
+	}
+
+	[class*=col] {
+		padding-bottom: 0;
+	}
+}
+
+article.article-body {
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 7.5rem;
+
+	&:not(figure) {
+		max-width: $breakpoint-text + 175px;
+	}
+
+	a {
+		text-decoration: underline;
+	}
+
+	p, ul, ol {
+		font-family: Georgia, serif;
+		margin-bottom: 2rem;
+		line-height: 1.5;
+
+		@media (min-width: $breakpoint-md) {
+			font-size: 132.5%;
+		}
+
+		@media (max-width: $breakpoint-md) {
+			font-size: 110%;
+		}
+	}
+
+	iframe {
+		width: 100%;
+
+		@media (min-width: $breakpoint-md) {
+			height: 363px;
+		}
+	}
+
+	blockquote {
+		font-family: Georgia, serif;
+		font-weight: bold;
+		margin: 2.5rem auto;
+		padding-top: 1.25rem;
+		padding-bottom: 1.25rem;
+		border-top: 2px solid $mid-grey;
+		border-bottom: 2px solid $mid-grey;
+
+		p {
+			line-height: inherit;
+			margin-bottom: 0;
+			margin-top: 0;
+			@media (min-width: $breakpoint-md) {
+				font-size: 170%;
+			}
+
+			@media (max-width: $breakpoint-md) {
+				font-size: 120%;
+			}
+		}
+	}
+
+	h1 {
+		margin-bottom: 2.5rem;
+		margin-top: 3.5rem;
+	}
+
+	.grid {
+		[class*=col] {
+			margin-top: -1rem;
+			padding-left: 1rem;
+			padding-right: 1rem;
+
+			figcaption {
+				font-size: 80%;
+			}
+		}
+
+		@media (min-width: $breakpoint-lg) {
+			width: $breakpoint-lg;
+			margin-left: -10rem;
+		}
+	}
+
+	.footnotes {
+		font-family: Georgia, serif;
+		margin: 5rem auto;
+		font-size: 80%;
+
+		p {
+			font-size: 100%;
+			margin-bottom: 0.75rem;
+			line-height: inherit;
+		}
+
+		hr {
+			padding-top: 1.25rem;
+			padding-bottom: 1.5rem;
+
+			&:before {
+				content: "Notes";
+				font-size: 140%;
+			}
+		}
+	}
+
+	hr {
+		border-top: 2px solid $mid-grey;
+		background: none;
+	}
+}
+
+figure {
+	margin: 3rem auto 0;
+
+	figcaption {
+		text-align: right;
+		font-style: italic;
+		font-size: 90%;
+		margin: 0.5rem auto;
+	}
+}
+
+.pagination {
+	.grid {
+		max-width: $breakpoint-text + 250px;
+		margin: 0 auto;
+
+		[class*=col] {
+			padding-bottom: 0;
+		}
+	}
+
+	padding: 1.5rem 0 0;
+	border-top: 2px solid $text-color;
+	margin: 5rem auto 0;
+}

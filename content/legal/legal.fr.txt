@@ -1,0 +1,17 @@
+Title: Legal mentions
+
+----
+
+Text: 
+
+Responsable éditorial : Gauthier Roussilhe
+​Addresse : 5 rue Rossini 33600 Pessac France
+​Email : (email: gauthierroussilhe@protonmail.com text: gauthierroussilhe@protonmail.com)
+​Site Web : (link: gauthierroussilhe.com/fr text: gauthierroussilhe.com)
+
+Hosting : Linode
+​Addressr : 329 E. Jimmie Leeds Rd, Ste. A Galloway, NJ 08205
+​Site Web : (link: linode​.com text: linode​.com)
+
+Développement : Fivos Avgerinos
+​Site Web : (link: afivos.com text: afivos.com)

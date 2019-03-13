@@ -1,0 +1,7 @@
+type: pages
+headline: Projects
+parent: site.find("projects")
+info: "{{ page.date.toDate('d.m.Y') }}"
+template: project
+empty: No projects yet
+sortBy: date desc

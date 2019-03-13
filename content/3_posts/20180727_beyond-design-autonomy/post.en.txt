@@ -1,0 +1,85 @@
+Title: Beyond design autonomy
+
+----
+
+Text: 
+
+Few years after starting my ‘career’ as a designer I formulate many doubts about my practice and the global practice of design. The more I pushed my thoughts the more I discovered that design practice was alienated in many ways to economic, social and industrial models.[^1] But it wasn’t any kind of economic models, it wasn’t any kind of social structure and so forth. I tried to figure out how to break the limits imposed on design practice by these systems and I came to the conclusion that the urgent concern for design was to become autonomous from its ‘natural’ economic model. Not to suppress it, but to stand next to it with the ability to judge the logics emitted by this system and how it matches with users’ need from which design should have been responsible for.
+
+Secondly I thought that design could become strategic and by doing so assure its independence. At the time I expressed the need for design to navigate complexity rather than control it. Indeed, most of design practice is about controlling users’ need to fit with industry value proposal. Human complexity had been put aside most of the time. My early conclusion was that the first political project of design practice was to fight for its autonomy. 
+
+I made several mistakes in those early thoughts, first of all I forgot to describe what I called the economic project and where it emerged. Then I did not contextualise the complexity principle that I was using or its supposed mediation. Finally I confused the political agenda of a practice (autonomy) and the political project of a community bound by common issues, even national, planetary, regional or temporary ... So I would like to correct my past self and I would like to propose my up-to-date thoughts of what it means to be an autonomous designer.
+
+
+# I. The luggage that design practice drags 
+
+It took me a while, as a designer, to clearly express how I felt about the 'economic project' and why it was bothering me. The concept of modernity has allowed me to better understand my reasoning, it is the economic project co-evolving with the modern project which is finally impossible for me to follow.
+
+Although modernity is widely known and studied in the humanities and social sciences, sometimes placed as a key element of understanding our era, sometimes relegated to the rank of myth, this concept is ignored by many active designers, so I would allow myself a brief summary that everyone can dig deeper.
+
+The modern project or modernity represents a change of concept in the West that aims to establish Reason, as rationality, as the main political mode and social, scientific and cultural norm. Modernity strives to gradually replace the concept of Aristotelian scholasticism that bridged the gap between ancient philosophy and Christian theology. The modern project has several constituents: first, the universality of Reason and its logical rigour, which allows important advances in the field of the natural sciences while revealing themselves incapable of providing the same rigour in morality and politics; secondly, the recognition of Man as the sole master of his destiny, that is to say of his reason for being and his end, individualism then replaces transcendence (Cogito ego sum: I think so I am); third, Man, according to Descartes, becomes master and possessor of Nature by the power of his Reason; Fourthly, Progress, technical and scientific, is in charge of freeing Man from his natural condition, this idea of ​​Progress rejects tradition, it places a linear timeline where all that is before is obsolete and all novelty is in essence better than the old.
+
+(image: autonomy3.png caption: Les murailles de Samaris, Les cités obscures by Schuiten and Peeters)
+
+The modern project has many other constituencies and implications that have been widely debated and discussed and that I encourage to study. However, two characteristics seem salient when one places oneself as designer: capitalism and industrialism. It is between these two systems that design is born and invariably takes place. In my reflections and personal positions it is also here that I place design in the modern economic project with all the baggage that this entails: ideology of the liberating Progress and its contemporary variation: innovation, universality of the Reason and individualism, the spirit superior to the body (essence / matter), the superiority of Man in the face of Nature, the epistemological division of knowledge, appropriation of living environments and transformation into alienable goods, accumulation of wealth in closed systems, social alienation and finally hegemonic cultural heritage.
+
+Of course, such an inventory is only superficial if not caricatural because modernity can also hold myth as recalled earlier. However, the factors of modernity have real effects and always have renewed political consequences. It is therefore more than necessary for the designer to be closely interested in the project that can reproduce their practice. **This is where the real question of design autonomy comes in: what does it reproduce by its practice?** 
+
+During many discussions with designers at round tables, conferences or informal meetings I have largely seen a certain acceptance of their practice without any real conceptual objection and a disenchantment of their profession. The designers with whom I spoke are certainly a very particular sample: 25-40 years, mostly in agency or independent (thus subject to high performance requirements) and recognising the lack of social utility of their practice. It is a common evil and already widely documented by researchers such as, for example, the anthropologist David Graeber with his recent book "Bullshit Jobs".[^2] Design is finally a job like any other, alienating and reproducing an economic and social structure necessary for the good conduct of markets and especially denying any political involvement. The design is modern.
+
+
+# II. Design as mediator
+
+I would now like to return more briefly to what I called "complexity" when I called for design to mediate and not to accept a role of control tool. First of all we must realise that, as Bachelard explains, the simple does not exist, there is only the simplified. Every action, idea, project, object, matter, as simple as they seem to us, is a complex system of elements and relations that we choose to simplify by a mental model more or less consciously. Thus, when speaking of a ‘simple’ user experience design, ‘simple’ does not refer to the nature of the experience (there is only one "natural" state is it is complex) but to the mental model affixed to the 'experience’. Don Norman explains that the mental model of organising files and windows in any operating system does not correspond to the real complexity of the elements and relationships in a computer. A choice of simplification has been made so that a computer can be used without having knowledge of the architecture that composes it.[^3]
+
+The example may appear trivial when dealing with interfaces whose mental model is almost hegemonic today, however a mental model remains a control tool of an artificial complexity at first and a human / systemic complexity in a second time.
+
+Design has historically been a service to industry and marketing, so it has always responded to the needs of these sectors, echoing their internal complexity and replicating related mental models. In this perspective, the buyer of a good or a service, produced by the industry and marketed, is a simplification of the human 'essence' to its rationality of purchase and maximisation of its happiness. The designer therefore works with / for a rational 'real human' whom he considers to be of  human nature whereas this representation is only a mental model. The 'human' that the designer practices is a reduction to the extreme of an indeterminate complexity that is the human experience. Control tools are probably necessary if we are aware of the reductive nature of the tool's liberticide for both the designer and the 'designed’.
+
+(image: autonomy4.png caption: Photo by Nilsson Bertil)
+
+If we stop controlling then how do we talk in mediation? It turns out that some designers have also developed a tradition of participatory design (in Denmark for example). The repositioning of design towards a “human-centered" practice, even if this is a conceptual mistake, is always a step forward to mediation, as long as the process remains in the hands of savvy and critical designers. Social design, even if it represents only a small part of the practice, is a sign of hope towards a more peaceful approach.
+
+Another opening to develop as a designer is to get rid of this Aristotelian thought on the notion of ‘Making’ which sees the human imposing their will on the inert matter. The human prefigures and chooses the material that will be most relevant or malleable to their prefiguration, because if the material has properties, being inert it does not affect the project prefigured by the one who shapes it. However, the anthropologist Tim Ingold in his essay ‘Making’ made it possible to consider the action of ‘making’ without prefiguring and leaving the matter to influence the project. The wood craftsman would therefore design with wood and not ‘by wood’ because he knows how to read the material and it imposes constraints that will modify more or less subtly the project. Of course mechanisation has largely broken the dialogue between maker and subject. I wanted to take the example of the concept of ‘making’ to emphasise the design notion of ‘making with', whether with a user or a community. The design is always stuck mainly in a pre-figurative thought (presuppositions, personas, etc.) and moves only slowly towards generalised methods of 'design with'. This 'with' can also be with a human and / or a non-human and must advance much further in this direction as it becomes impossible to think of humans out of their environment in hyper tension.
+
+
+# III. Putting design into politics
+
+This last part goes back to my previous assumption where I felt that the political project of the design was to become autonomous of the economic project. We now know that this economic project is much more complex and carries many concepts that I then misidentified. I still think that the design must become autonomous from the modern economic project but that can not be the end of the political project of the design because it is only about internal politics and constitutes only one organisational step towards politics conceptualised by common issues, communities and therefore territories.
+
+What could be this political project that design could join and ultimately can put design into politics? On this possible setting in politics my reflection was largely influenced by my readings and studies on ethics. Having no philosophical training I had to go back a logical path that may seem obvious to many. The formulation of a personal and / or professional ethic is not guarantor of anything, it is only by being put into action that ethics lives. This activation of ethics (*what is the best way of living for me and for others*) leads logically to participate in the organisation of collective life, what is commonly called ‘politics’. This politics is obviously not a politics of parties or ideologies, it seeks to better organise the existence of beings within the same space and seeks less its own reproduction by power structures.
+
+It is with this criticism in mind that I tried to put in politics the personal ethical base that I built and with which I evolve. I looked for the common issues that correspond to my ethics, my abilities and my own search for meaning. This research quickly removes techno-positivist sirens specific to the practice of design to bring closer to more immediate and tangible issues: the change of world due to the impact of human activities on our global ecosystem and the resulting ‘ways of life’ changes . It is in this very vast context that I chose to put my practice in politics because it made sense and allowed me to really engage and urgently in the collective life, for the benefit of all I hope.
+
+In this new space how did I declare my autonomy? By creating my own proposals. I recently attended a seminar given by Tony Fry, author of 'Design as Politics' among others, where he talked about the world to come and the geopolitical, social and health risks of climate change. He emphasised at length the need for designers to become autonomous by using what he calls propositional design. The reasoning is that design meets only the needs of the industry and that the industry has little interest in the problems related to the deep precariousness of our common habitat, the most urgent subject on which to work. . So it is up to the designer to propose his own missions, to create his own projects related to this priority subject. It is true that in this context we can question the meaning of the work of the designer who designs virtual reality experiences in a future world where resources, energy, supply chains and industries will be either inaccessible or inadequate with the actual needs. Here is what I articulate from my ethical positioning to politics, but this is only my meager example of a long transformation. Empowerment is not a trigger, it is a long and laborious process in which we must redesign our project space and our business models.
+
+
+# IV. Assemble the pieces of the puzzle
+
+To conclude I would say that autonomy can start as a process if several shifts and actions are undertaken. A first perspective is to understand the history of design in the concept of modernity to discover the potential logics and conceptual baggage that the practice replicates: rationalisation, ideology of technical progress as emancipation, Man measure of all things, separation of Nature and Culture, etc. Then it must be understood that this baggage and its reproduction constitute a Eurocentric imperialism and therefore a factor of cultural and social colonisation. Is the design practice that supports the American way of life as a way of life by default not a powerful instrument of colonisation, totally disconnected from the world and its limits?
+
+Design must consider the specificities of the territories in which it works and understand whether it is legitimate to work there or not. What is the point of being centred on ‘humans’ if we do not understand it in context? Moreover, the design practice, historically industrial, has been shaped only for the urban space, that rural areas carrying many issues of transition but for which the practice of design is inconsistent. A whole chapter of design is to write here ...
+
+Design must also emancipate itself from techno-positivism or technological solutionism, which will find its limits much faster than expected in the face of a reality principle. This belief is alienating in that it distances us from human complexity to offer us a simplification of the world and therefore a control of the imaginary. These imaginations are often wrong when put in perspective with the limits of our planet in terms of both resources and energy. This path carries little meaning.
+
+Finally we must dispel one of the biggest pitfalls of design: "the human" for which the designer works has never been human, it is only a persona provided by the neoclassical economic theory: the calculative and rational human who seeks to maximise their happiness. For decades, design has tried to make this persona human by providing rational applications and services with indicators and objectives to accomplish and measure (quantified self). The sensitive experience is still far, it seems to me, from ‘mainstream’ design practice.
+
+Empowering oneself is like finding one's new attractor, this new context that will give meaning to the setting in politics of one's practice for the collective good. Paradoxically, making oneself autonomous does not mean becoming independent or stopping being dependent, it's simply becoming interdependent.
+
+[^1]: Vers l'autonomie du design, personal blog
+[^2]: David Graeber, Bullshit Jobs: a Theory (Simon & Schuster: London, 2018)
+[^3]: Don Norman, Living with Complexity (Cambridge: MIT Press, 2011)
+
+----
+
+Date: 2018-07-28 21:15
+
+----
+
+Author: 
+
+- gauthierroussilhe@protonmail.com
+
+----
+
+Tags: Design

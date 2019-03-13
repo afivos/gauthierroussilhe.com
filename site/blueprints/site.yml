@@ -1,0 +1,44 @@
+title: Site
+
+tabs:
+  
+  content:
+    label: Content
+    columns:
+      - width: 1/2
+        sections:
+          posts: sections/posts
+          projects: sections/projects
+      - width: 1/2
+        sections:
+          pages:
+            type: pages
+            create: default
+            template:
+              - home
+              - projects
+              - posts
+              - default
+              - error
+              - legal
+
+  options:
+    label: Site Information
+    columns:
+      - width: 1/2
+        fields:
+          email:
+            label: Email
+            type: email
+          medium:
+            label: Medium
+            type: text
+          twitter:
+            label: Twitter
+            type: text
+      - width: 1/2
+        fields:
+          Description:
+            type: text
+          Note:
+            type: textarea

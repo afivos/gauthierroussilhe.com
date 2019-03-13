@@ -1,0 +1,21 @@
+// -----------------------------------------------------------------------------
+// This file contains styles that are specific to the Post page.
+// -----------------------------------------------------------------------------
+
+.page--post {
+	article.article-header {
+		margin-bottom: 2rem;
+
+		h1.article-title,
+		.grid {
+			max-width: $breakpoint-text + 175px;
+			margin-left: auto;
+			margin-right: auto;
+			padding-left: 0;
+
+			[class*=col] {
+				padding-left: 0;
+			}
+		}
+	}
+}

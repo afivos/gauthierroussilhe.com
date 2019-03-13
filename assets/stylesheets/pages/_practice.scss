@@ -1,0 +1,48 @@
+// -----------------------------------------------------------------------------
+// This file contains styles that are specific to the Practice page.
+// -----------------------------------------------------------------------------
+
+.page--practice {
+	h4 {
+		margin: 0.75rem 0;
+	}
+
+	p {
+		margin: 0 auto 1rem;
+
+		&:last-child {
+			margin-bottom: 2.75rem;
+		}
+	}
+
+	.overlay {
+		@media (min-width: $breakpoint-lg) {
+			height: 15.75rem;
+			overflow: hidden;
+		}
+	}
+
+	article {
+		margin: 4rem auto;
+		max-width: $breakpoint-text;
+	}
+
+	ul {
+		list-style-type: square;
+	}
+
+	@media (max-width: $breakpoint-md) {
+		ol, ul {
+			padding-left: 0;
+
+			li {
+			    list-style-position: inside;
+			    text-indent: 1.5rem;
+
+			    span {
+				    padding-left: 1rem;
+				}
+			}
+		}
+	}
+}

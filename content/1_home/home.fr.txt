@@ -1,0 +1,105 @@
+Title: À propos
+
+----
+
+Bio: 
+
+Je suis un designer et chercheur travaillant sur les effets de l'Anthropocène, c'est-à-dire la reconnaissance de l'impact des activités humaines comme l'un des principaux moteurs de la transformation et de dégradation de la Terre.
+
+Par conséquent j'étudie comment les pratiques de design peuvent aider à négocier le quotidien de nos nouvelles conditions de vie et comment concevoir et entretenir des services et des systèmes avec une énergie et des ressources limitées.
+
+Ma pratique professionnelle consiste à faire des recherches de terrain, co-créer et animer des ateliers et concevoir des supports (films, animation graphique, médias numériques, cartographies) sur la base d'une approche à faible impact carbone.  Je donne aussi des conférences et enseigne à la prochaine génération de designers le nouveau cadre de leur pratique.
+
+----
+
+Box1: 
+
+I. Mon travail consiste à:
+
+1. Effectuer des recherches sur le terrain, conduire des entretiens et traduire cette recherche en résultats compréhensibles et sensibles (films, objets, interventions);
+2. Organiser des workshops pour permettre d'imaginer la vie quotidienne future (produits, services, systèmes) dans un monde caractérisé par des ressources limitées, une énergie réduite, des nouvelles contraintes économiques et un climat en mutation;
+3. Assurer la création de contenu d'animations graphiques, de films / documentaires et des médias numériques afin de répondre aux besoins de communication basés sur une approche low tech;
+4. Donner des conférences et enseigner à la génération actuelle et à la prochaine génération de designers.
+
+----
+
+Box2: 
+
+II. Avec qui / pour qui je travaille:
+
+Je travaille pour / avec des personnes et des organisations qui ont reconnu la nécessité de la transition et qui souhaitent porter des changements systémiques. Ainsi, j'entends travailler principalement pour des institutions publiques, des responsables locaux dans des villes et des villages, des ONG, des think tank et des lobbies pour la transition et les directions RSE et développement durable des entreprises.
+
+Je m'intéresse particulièrement à la conception de média et d'expériences aidant à comprendre les effets du changement climatique et les stratégies de transition vers un public plus large.
+
+----
+
+Box3: 
+
+III. Nous pouvons collaborer si:
+
+1. Vous voulez imaginer de nouvelles façons de concevoir des produits / services / systèmes dans un monde où les ressources et l’énergie sont limitées;
+2. Vous êtes intéressé par la création de nouveaux imaginaires d’une vie quotidienne soutenable;
+3. Vous souhaitez vous engager avec vos citoyens dans un effort de transition et que vous recherchez de nouveaux moyens de favoriser la participation et l’engagement du public;
+4. Vous êtes une agence de design ou une école de design essayant de recadrer sa pratique dans des objectifs de transition.
+
+----
+
+Box4: 
+
+IV Vous pouvez me contacter sur les services suivants:
+
+1. email: (email: gauthierroussilhe@protonmail.com text: gauthierroussilhe@protonmail.com)
+2. WhatsApp: +44 (0) 7753 984976
+3. Twitter: (link: https://twitter.com/AsWalterRobin text: @AsWalterRobin)
+
+----
+
+Column1: 
+
+### Conférences
+
+- *Politics of Design on damaged Earth*, Paris College of Art, Paris, 2019
+- *Obsolescence à programmer ?* (avec Alexandre Monnin et Diego Landivar), GDS Ecoinfo, CNRS, Grenoble, 2018
+- *Design et transition*, World Usability Days, FLUPA, Strasbourg, 2018;
+- *Values for Design*, Design Does Forum, Barcelona, 2018;
+- *Design for Decentralisation*, Interaction 18, Lyon, 2018;
+- *Algorithmic complexity and design ethics*, TodaysArt, the Hague, 2017;
+- *Quelle éthique pour le design ?*, Ecole Bellecour, Lyon, 2017;
+- *Low tech vs High tech in the megacity* [...], European Lab, Seoul, 2016;
+
+----
+
+Column2: 
+
+### Ateliers et enseignements
+
+- *Storytelling and animation: introduction class*, Goldsmiths University, London, 2019
+- *Design numérique et transition écologique*, FLUPA, Toulouse, 2018
+- *Introduction à l'Éthique*, Gobelins, certification for UX designers, 2017-2018
+- *De la critique à la vertu, exercices de design spéculatif* (with Flora Fischer), Ethics by Design, Lyon, France, 2017;
+- *Le futur de l'UX?*, École Bellecour, Lyon, 2017
+
+----
+
+Column3: 
+
+### Couverture presse et contributions
+
+- (link: https://urbannext.net/?s=gauthier+roussilhe&x=0&y=0 text: *For Designers: Personal Notes and Essays for Designers’ Emancipation*), UrbanNext, 2018
+- (link: https://phase.com/magazine/what-is-the-role-of-a-designer/ text: *What is the role of a designer?*), Phase Mag, 2018
+- (link: https://weare-europe.eu/en/mag/opinions/147_european-cuisine text: *European Cuisine*), We Are Europe, 2018
+- (link: https://usbeketrica.com/article/la-conscience-d-une-pollution-mentale-creee-par-le-numerique-emerge text: *Une conscience de la pollution mentale par le numérique émerge*), Usbek&Rica, 2017
+- (link: http://www.larevuedudesign.com/2017/10/03/documentaire-ethique-design-et-utilite-du-designer/ text: *Éthique, design et utilité du designer*), la Revue du Design, 2017
+- (link: https://etapes.com/l-utilite-du-designer/ text: *L’utilité du designer (?)*), étapes, 2017
+- (link: http://internetactu.blog.lemonde.fr/2017/11/04/quelle-ethique-pour-le-design/ text: *Quelle éthique pour le design*), InternetActu/Le Monde, 2017
+
+----
+
+Text: 
+
+I. My work consists of:
+
+1. Doing field research, interviews, translating the research back into understandable and sensible outcomes (films, objects, talks);
+2. Conducting workshops to allow participants to imagine future everyday life (services, products, systems, craft) in a world with limited resources, energy and changed climate;
+3. Providing content creation in filmmaking, motion graphics, digital media to answer communication needs based on a low- tech approach;
+4. Giving talks and teaching the current and next generation of designers.

@@ -1,0 +1,64 @@
+Title: Seeder
+
+----
+
+Intent: exploring limits of applied ethics in an unethical industry and questioning designers' responsibility
+
+----
+
+Text: 
+
+# The « Seeder » is the first eco-friendly weapon made for those who want to protect both their family and our planet.
+ 
+The Seeder is a design fiction exploring the likely synergies that will appear in our future societies. In this particular case we assumed that weapon manufacturers will soon include «green» behaviours and doing so apply circular economy principles to their industry. The result of such adaptation could be called failed or non-desirable transitions.
+
+<iframe src="https://player.vimeo.com/video/322002258" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+# Future forms of green marketing in the U.S.A.
+
+As we entered a more and more complex world unexpected links are meant to appear. For this case I’ve studied the emergence of new forms of marketing in the future United States of America. I’ve looked at actual trends within industry and combined it with the actual political system allowing active lobbying (this project was made before the new US election). One of the most influential lobby in U.S.A. is the National Rifle Association, it keeps gun policy a non-ending issue by supporting conservative viewpoint and by maintaining intense lobbying in Washington. There is good chance that gun policy issue will prosper and gun manufacturers will evolve with new processes. One of this processes is 3D-printing. Home manufacturing and rapid prototyping allowed by 3D-printing are a huge deal for all that can afford it and believe in american tech discourses. But 3D-printing can also mean a "greener" way to make products, it’s an on-demand production with less logistics and delivery that can sometimes use recycled material.
+
+(image: seeder4.png caption: 3D render of our prototype based on Liberator's model)
+
+# Being both green and armed is not contradictory
+
+Based on lobbyist activity and 3d-printing progress I conceived a false handgun and its marketing claims aiming new traditional american families with environmental interests. This new persona is a strange hybrid between the « Proud to be american » and « Save our planet» profiles. This new american persona have grown with the fear of climate change due to human activities and in a tense geopolitical context where U.S.A. withdraw from their international role. The new families emerging from this persona want to feel protected from the upcoming political destabilisation and they’re becoming more handy since they know they can only be protected by themselves. They also want to do their best slowing the climate change, they buy solar panels, do gardening and try a low-consumption lifestyle.
+
+<div class="grid">
+	<div class="col-6_sm-6">
+		(image: seeder2.png caption: Printed result)
+	</div>
+	<div class="col-6_sm-6">
+		(image: seeder3.png caption: Every parts composing the gun)
+	</div>
+</div>
+
+# The future designer’s dilemma
+
+Ethics is what the future designer will need to face theses scenarios. We’re living in a contemporary world where ethics have been largely misunderstood as we tag anything with the « ethics » label, we drink ethical coffee, use ethical toilet paper and so on… We forgot that Ethics is a philosophy to be discussed about and put into action, not an empty label. This philosophical emptiness will lead to absurd products such as the « Seeder » packaged within misleading marketing claims. Future privileged designers need to be trained to or at least aware of what ethical positioning means so they can make the best choice for their communities not for a marketing director.
+
+
+# Credits
+
+Research and Design – Gauthier Roussilhe
+Industrial Design – (link: https://www.julien-buisson.com text: Julien Buisson)
+Voiceover – Emily Van Bel
+Date –  April 2016
+
+----
+
+Date: 2016-07-15 16:15
+
+----
+
+Author: 
+
+- gauthierroussilhe@protonmail.com
+
+----
+
+Category: Project
+
+----
+
+Tags: 3d printing, green washing, speculative design

@@ -1,0 +1,76 @@
+Title: Design notions: Systems
+
+----
+
+Text: 
+
+Design is difficult to define, it is an evanescent form that escapes the grip of the one who wants to appropriate it. This fugacity is the strength of Design, it is not limited to a single definition, it is all its definitions at once, it crosses disciplines but exists only through them. Design is definitely human, it adapts, evolves permanently and tries to escape from a single thought, with more or less success. As such, design traces the contours of a hybrid discipline: **Design is not a knowledge that animates contexts, it is a context that drives knowledge.** Design can not have a global definition because it is only definable when contextualized, and the contexts of application are innumerable. The practice and goals of the seasoned graphic designer will rarely be similar to those of the service designer for example.
+
+This absence of definition or rather the simultaneous plurality of definitions allows me to propose an additional representation whose sole purpose is to enrich the view of the discipline. A representation that will co-exist simultaneously with existing definitions.
+
+# I. Should the design place the man at the center of everything?
+
+Let's consider that design is expressed as an act, an act of design whose designer is its source. The act affects defined actors. Suppose that the first receiver of the act is the man, all the currents of design bring this evidence as the terms "human-centered" and "user-centric" slip into the current practice of the designer . **This anthropocentrism has many benefits but by positioning the man at the center of everything does not project too much shade on the other elements of importance equal to humans?** Can we speak of a human-centered approach without including the ecosystem, an actor / system obviously preponderant because it is in its existence that is that of the human. The human-centered approach stems from an analytical thought that wants to isolate the human-the user-to better understand it, but in doing so it detaches it from everything that makes them up and that they’re made up of: their environment immediate and their eco-system.
+
+A quote from Pascal is particularly dear to me: "*I think it is impossible to know the parts without knowing the whole thing, nor to know the whole without knowing the particular parts*".[^1] Human beings are therefore part of a complex set of systems stemming from their natural environment, their own activity, their attachment to multiple social and cultural groups and many other aspects: the ecosystem, interacting direct with our actor, supposedly central, the human being.
+
+(image: systems2.png caption: Typologie générale des systèmes, Bunge, 1979 from “La Systémique”, Daniel Durand)
+
+Embedded in so many systems in perpetual balancing it may seem very complex to place a human being at the center of the "everything" that is our world. In constant adjustment to the influx of all the systems that are linked to them, a human being is therefore a system in its own right that reacts and adapts. In a healthy design practice, putting human beings in the center is like creating a single-legged chair, that's believing in stability in the fall.
+
+However, even if humans is not able to measure everything[^2], they’re part of everything and everything is part of them. Thus, designing is a multiple act which, by influencing the relationship between human beings and their environment, influences all the parts - at different intensities. Designers, knowing and working for human beings, then have to analyze and identify elements and systems affected by their work. For each act of design with distinct objectives, this work of analysis, identification and modulation is therefore reinvented for each new act.
+
+(image: systems3.png)
+
+# II. Design and system
+
+Design is currently a formalized practice by (Western) men for men. It has the effect, wanted or not, of modulating human relations with all the systems and sets with which they interact. It is therefore normal that a centralization on human beings has been operated in the past. However, as I explained above, it is generally inaccurate to be anthropocentric in the contemporary context: **human beings remain of equivalent importance to each element that makes up the ecosystem – neither more important nor less important , just equivalent.**
+
+Before going further, it seems to me relevant to introduce here some notions of systemic. A human being is linked to each element of their ecosystem, either directly or by extension. Each element has an effect on this human and the human has an effect on the element in question. Each element / system in the system sends a signal / information to this human who adapts accordingly and modifies (by amplification or regulation) the signal they will send in turn, it is a feedback. For example if I write a text and I have it corrected to a friend, according to their corrections I will modify my original text, I would have retroacted (feedback). Each element of the system is therefore in constant balancing with the others and a prolonged variation can bring a change of state of the system, it is self-organization. For example, if I continue to correct my text following the constant returns of my corrector, I will consider that my angle was not good and that I will probably rewrite my text with a new axis. Edgar Morin defines this as an "organizing disorder".[^3]
+
+(image: systems4.png caption: Interpretation from "The Macroscope", Joël de Rosnay, 1975, p.110)
+
+Now, let’s take the example of an everyday object: a chair. The chair is an intermediary between man and his environment, in this case the soil, belonging to the system “environment”.
+
+(image: systems5.png)
+
+For example a woman is tired and needs to sit down. Its interaction with the environment is simple, the woman observes beforehand the place most likely to sit according to criteria of comfort and security: will she be comfortably seated to optimize her time recovery, is the soil wet, is the place too sunny, safe from potential hazards, etc.? According to the information provided by the observation, that is to say by the information provided by the system “environment", the system “Woman" selects the most relevant information and makes a decision (conscious or not, rational or not). The signals that link the two systems are balanced around the information available and selected, this is the decision taken. An informational consensus is created. The woman will sit in the shade of the trees even if it is less comfortable because it is too hot and reducing its temperature has been probably the main factor in decision making. Of course these signals are doomed to destabilize eventually because the soil may prove too rocky, not comfortable enough, perhaps the weather will have changed. The signals will therefore be unbalanced whatever happens and the woman will leave her position marking the end of the sitting period.
+
+(image: systems6.png)
+
+By analyzing the different periods, frequencies and amplitudes that define the interaction between the system “Woman" and the system ”Environment", the designer is able to modify the signals – the design act – thanks to a mediator, a seat.
+The integration of the seat in the interaction between systems will modify it directly, a more comfortable sitting will create longer or shorter sitting periods. This chair as mediator will know a series of iterations that will correspond to the modifications of the informative signals between the two systems and thus to the creation of a new form of seating.
+To overcome any question about who influences the other (the story of the egg or the chicken), it seems important to remember that it has no order or hierarchy in this process. As an example, Edgar Morin reminds us: "*Society is produced by interactions between individuals, but society, once produced, feeds back on individuals and products*".[^4]
+
+# III. How does the act of design express itself in the system(s)?
+
+**The act of design is really an action in the system that houses it, but at the scale of an ecosystem, action becomes a phenomenon**, a phenomenon of mediation and modification that links each system to the system “Human being”. We can then talk about the phenomenon of design. This re-definition makes it possible to conceive the act of design no longer as a single action with a temporary and limited impact, but integrated into a "whole" that is modified durably by each mediation.
+
+It is important to understand for those who engender the act of design the consequences before it becomes a phenomenon. The act of design responds to a hypothesis, an observation, a goal and it exerts its full potential towards that. However the act of design becomes a phenomenon when the answer created, whether it is relevant or not, modifies the signals that bind the systems to each other, whether it is wanted or not. It seems difficult for the designer to be able to fully measure the impact of the act on systems with the tools available now and their working conditions. **So the first step is to understand that the act of design does not limit to what we want it to become but that it does emerge simultaneously in all that is related to us.**
+
+By taking over the general typology of Burge's systems, a first modeling allows a better understanding of the design phenomenon.
+
+(image: systems7.png)
+
+This re-definition of design has a multiple purpose. First, it is an invitation to caution. **Each design act can have  underestimated short-term and long-term impacts**. It is necessary for the future designer to accept the complexity of the world, and by extension the multiple interactions between systems, hence the designer should not be blinded by apparent superficiality.
+
+The same goes for the question of professional ethics, ie the responsibility of the designer. Of course It is inhumane to ask a designer to take responsibility for all desired and unwanted interactions of their act because their professional competence is limited. However, they can not be ignorant of the interactions and consequences inherent to their act. it is their task to identify where their skills are relevant and influential in the dynamics of systems and it is up to them to make every effort to ensure to the calmed nature of modified interactions. **This is a question of decency and dignity**.
+
+[^1]: Blaise Pascal, Pensées (Paris: Havet) I, 1.
+[^2]: "*Man is the measure of all things*", Plato, Theaetetus, 152a.
+[^3]: Edgar Morin, Introduction à la pensée complexe (Paris: Points, 2014) (personal translation).
+[^4]: Edgar Morin, Introduction à la pensée complexe (Paris: Points, 2014) 100 (personal translation).
+
+----
+
+Date: 2017-09-14 20:45
+
+----
+
+Author: 
+
+- gauthierroussilhe@protonmail.com
+
+----
+
+Tags: Design Education

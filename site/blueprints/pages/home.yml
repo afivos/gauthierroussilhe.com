@@ -1,0 +1,58 @@
+title: Home
+
+icon: 🏠
+
+options:
+  status: false
+
+columns:
+  - width: 2/3
+    fields:
+      bio:
+        type: textarea
+        size: medium
+      box1:
+        type: textarea
+        size: small
+      box2:
+        type: textarea
+        size: small
+      box3:
+        type: textarea
+        size: small
+      box4:
+        type: textarea
+        size: small
+      column1:
+        type: textarea
+        size: small
+      column2:
+        type: textarea
+        size: small
+      column3:
+        type: textarea
+        size: small
+
+  - width: 1/3
+    sections:
+      cover:
+        type: files
+        headline:
+          en: Cover Image
+          fr: Cover Image
+        back: black
+        max: 1
+        template: cover
+      about-image:
+        type: files
+        headline:
+          en: Secondary Image
+          fr: Secondary Image
+        back: black
+        max: 1
+        template: about-image
+      files:
+        type: files
+        headline:
+          en: Files
+          fr: Files

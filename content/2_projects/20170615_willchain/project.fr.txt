@@ -1,0 +1,56 @@
+Title: Willchain
+
+----
+
+Intent: concevoir un service fictif pour remettre en question la confiance dans les nouveaux services numériques et les technologies à la mode
+
+----
+
+Text: 
+
+# Willchain est la première plate-forme d'écriture testamentaire utilisant la technologie blockchain. Ceci est une fiction.
+
+Willchain est une start-up britannique qui permet à chaque usager de rédiger son propre testament sans l'assistance d'un notaire. Les testaments sont remplis, sécurisés et stockés sur une blockchain. Suivant les tendances actuelles, ce scénario représente un futur Royaume-Uni où les blockchains ont été largement déployées et mises en œuvre dans tous les services, du gouvernement aux marchés financiers.
+
+(image: willchain.png caption: an extract from The Wall Street Journal)
+
+Pour aller plus loin dans notre scénario, un gigantesque transfert d’actifs se produit avec la fin de la génération du baby-boom. Cet évènement nécessite des services nouveaux et rapides pour transférer tous les actifs d’une génération à l’autre et les solutions traditionnelles proposées par les notaires sont rapidement dépassées par les services de blockchain proposés par des start-up telles que Willchain.
+
+(image: willchain6.png caption: when an online service becomes your testamentary witness)
+
+# Une question technologique de vie et de mort
+
+Cette fiction soulève deux questions primordiales. Premièrement, dans quelle mesure sommes-nous prêts à faire confiance à un logiciel? Demander à un logiciel d’appliquer votre dernière volonté est une preuve ultime de confiance, car vous ne pourrez pas vérifier le résultat car vous êtes mort. À quelle vitesse pouvons-nous atteindre ce degré de confiance et est-ce même nécessaire? Faire confiance à un logiciel, c'est aussi retirer votre confiance à un humain (dans ce cas, un notaire). Ce type de technologie ne serait-il pas alors un système de défiance ? Pour les besoins de la fiction, j’ai créé une fausse loi appelée «loi sur la responsabilité numérique» qui stipule qu’un logiciel peut être reconnu comme une personne morale.
+
+(image: willchain2.png caption: giving your house is just as easy as a 1-second drag & drop)
+
+La deuxième question posée concerne la manière dont les interfaces façonnent nos comportements et nos symboles communs. Grâce aux services de Willchain, vous pouvez transférer votre maison à un membre de votre famille en moins de deux secondes en glissant-déposant le bien sélectionné dans la colonne correspondante à un bénéficiaire, est-ce une bonne pratique? Travailler avec un notaire et rédiger votre testament est un processus compliqué, mais il reflète au moins la vie complexe dans laquelle nous vivons parfois: fonder une famille, acheter une maison, etc. Tous ces récits humains doivent-ils être glissés d'une colonne à l'autre en moins de deux secondes? Cela affectera-t-il notre relation à la propriété si nos transactions immobilières deviennent aussi simplistes?
+
+<iframe src="https://player.vimeo.com/video/322002379" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+Nous ne devons pas oublier que les interfaces sont aussi des modèles conceptuels qui façonnent la façon dont nous percevons notre propre monde, qu’il soit étroit ou complexe. Nous concevons des interfaces autant que des interfaces nous concevront en quelque sorte. C’est un point crucial que les concepteurs ne doivent pas oublier et accepter car ils conçoivent des expériences ou des interfaces de plus en plus simplistes pour une réalité de plus en plus complexe.
+
+# Crédits
+
+Recherche et design - Gauthier Roussilhe
+Assistante à l'animation - (link: https://cargocollective.com/SarahGarcin text: Sarah Garcin)
+Voix off - Julia Holiday
+Date - août 2016
+
+----
+
+Date: 2017-06-15 15:55
+
+----
+
+Author: 
+
+- gauthierroussilhe@protonmail.com
+
+----
+
+Category: Project
+
+----
+
+Tags: blockchain, willwriting, design spéculatif

@@ -1,0 +1,11 @@
+title: about-image
+
+# optional fields
+
+fields:
+  #alt:
+    #label: Alt Text
+    #type: text
+  caption:
+    label: Caption
+    type: text

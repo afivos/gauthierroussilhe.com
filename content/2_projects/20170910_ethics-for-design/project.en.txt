@@ -1,0 +1,93 @@
+Title: Ethics for Design
+
+----
+
+Intent: exploring what means ethics in today's design practice by interviewing designers and researchers and designing a free and interactive documentary for everybody to watch
+
+----
+
+Text: 
+
+# A 50-minute interactive documentary that questions the designer’s ethics. Ethics for Design is free, open source and under Creative Commons and can be watched here. ((link: https://vimeo.com/235547814 text: french version here))
+
+<iframe src="https://player.vimeo.com/video/232973887?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+In January 2017, while I was in the process of closing the design company I had been co-running for 4 years, I took time to think about what I had done so far and the meaning of it. I guess that every privileged design practitioner had this time where they could ask themselves about the usefulness and the fairness of what they did, what they've been asked to do, the systems they were part of.
+
+This time my persistent questioning led me to send 14 emails to designers and researchers that influenced me so far to interview them about ethics and about the role of a designer. I got 12 positive answers in 3 days and I was off to south of France to meet with my first interviewee. This journey would eventually lead me to 5 different countries and 8 different cities in Europe. Europe was the self-imposed limit due to the self-funded nature of the project and also because I didn't feel legitimate to speak about any other territories.
+
+# Who's talking
+
+What is the role of a designer? This question feels still essential today because what a designer produces —experiences, interfaces, services, products, etc.— seems to go against the interests of the users.
+
+Through crossed interviews between designers and researchers and real-life case studies, the interactive documentary provides an overview of the profession and looks for new paths for future designers.
+
+12 designers and researchers from European countries have been interviewed: James Auger, Alain Findeli, Sarah Pandelle, Geoffrey Dorne, Peter Bil’ak, Sarah Gold, James Williams, Flora Fischer, Thomas Schnur, Antoine Fenoglio, Matthieu Cherubini and Nicolas Nova. I picked them because they influenced me at some point in my design career and / or were also recommended to me by other interviewees or friends.
+
+<div class="grid">
+	<div class="col-6_sm-6">
+		(image: ethics2.png caption: In James Auger's kitchen in Madeira)
+	</div>
+	<div class="col-6_sm-6">
+		(image: ethics3.png caption: With Sarah Gold's office, London)
+	</div>
+        <div class="col-6_sm-6">
+                (image: ethics10.png caption: Speaking with Laura Pandelle from the "27th Region", Paris)
+	</div>
+        <div class="col-6_sm-6">
+		(image: ethics4.png caption: Meeting with James Williams at Oxford Internet Institute)
+	</div>
+</div>
+
+
+# An ethical interaction
+
+I've always been frustrated by the way video has been used on social media as an easily edible product: autoplay, subtitles, fast-paced edit, flashy motion graphics, hooking titles, short format. I felt that these kind of videos are symptomatic of digital hooking / unethical practice so I decided to design a video experience that will challenge to unethical design practices and carry the message of the documentary through embodied exemplarity.
+
+(image: ethics9.png caption: resize one block and all will follow)
+
+The documentary's interface consists of 5 interdependent blocks, if you increase the size of one, you reduce the size of others. Each block is linked to a medium: one for video, one for subtitles, two for pictures, one of complementary text. For instance if you increase the size of the video block it will reduce the size of other blocks. The implications of this interface are quite straightforward: the viewer is given the choice to watch the documentary and to choose the medium they want to favour. This necessary friction creates the basis for an ethical experience as the interaction becomes based on the intentions of the user rather than their impulse.
+
+Visit the interactive version of the documentary here: (link: http://www.ethicsfordesign.com text: ethicsfordesign.com)
+
+
+# The perks of directing a documentary about ethics
+
+From sending the first interview request to finishing the last subtitle file this project lasted 6 months. 6 months of research, reading, interviews, transcript, editing, post-production and so forth. It means 6 months only thinking about your own ethical positioning while discussing and receiving advices from your peers and listening to them again and again. This has been a transformative experience from which my own ethical positioning emerged without me noticing it.
+
+I was privileged to live this transformation and I know that other people don't have the privilege, time or networks to do the same  so I decided to make this documentary free and open to everyone. So far the documentary has been screened in more than 20 countries by students, teachers, designers that wanted to talk about ethics and I hope it will continue to be useful over time.
+
+(image: ethics6.png)
+
+Although it started as a personal project, I was joined during this adventure by talented designers and friends who helped me to carry this project to the end. I would like to thank all those who have helped me with their talents, their advice and their generosity: Giulia Orgeas, Julian Hanna, Enrique Encinas, Danielle Boelling, Sebastien Robert, Marianne Clavel, Thomas Skowronski, Lucile Vidaud, Gandalf de Meaupou From Ableiges de Monbail, Marine Schepens, Alexis Ozouf, Ronja Müller, Roman Maria, Bernard Magri, Victoria Stephens, Flore Leclerc, Nicole Felipe, Yann Alary, Clement Renaud and Amaury Poudray.
+
+# Credits
+
+Direction, production, motion graphics — Gauthier Roussilhe
+Art direction and graphic design — (link: http://clement-ltn.com text: Clément le Tulle-Neyret)
+Technical direction and web development — (link: https://sylvain-jule.fr text: Sylvain Julé)
+Translation — Elise Leclerc
+Voiceover — Victoria Stephens
+Music curation — (link: https://sebastienrobert.nl text: Sébastien Robert)
+Sound post-production — (link: http://www.miroslav-pilon.com text: Miroslav Pilon)
+Date —  September 2017
+
+Music – S.A.M., Baby I’m Sorry, Alone In A Crowd, Two Hearts In Doubt, Dream State Of A Bellmaker, 2017; DJ Sports, Phases Of Winds, The Secret Jog Life, Phases Of Winds, 2016; Trux, Aziol, Trux, 2016
+
+----
+
+Date: 2017-09-10 17:55
+
+----
+
+Author: 
+
+- gauthierroussilhe@protonmail.com
+
+----
+
+Category: Project
+
+----
+
+Tags: documentary, ethics, design education

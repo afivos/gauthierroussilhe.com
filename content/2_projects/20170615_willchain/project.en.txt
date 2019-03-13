@@ -1,0 +1,56 @@
+Title: Willchain
+
+----
+
+Intent: designing a fictional service to question trust into new digital services and hyped technologies
+
+----
+
+Text: 
+
+# Willchain is the first willwriting platform using blockchain technology. This is a design fiction.
+
+Willchain is a british start-up allowing each individual to write their own will without the assistance of any solicitors. Wills are filled, secured and stored using blockchain technology. Following current trends this scenario pictures a future United Kingdom where blockchains have been broadly deployed and implemented within every services from government to financial markets.
+
+(image: willchain.png caption: an extract from The Wall Street Journal)
+
+Going further in our scenario a gigantic assets shift occurs with the end of baby boomer generation. The importance of this shift requires new and fast services in order to transfer all assets from one generation to one another and traditional solutions proposed by sollicitors are quickly outdated by blockchain services proposed by start-ups such as Willchain.
+
+(image: willchain6.png caption: when an online service becomes your testamentary witness)
+
+# A technological question of Life and Death
+
+This fiction raises two primordial questions. First, how far are we ready to trust a software? Asking a software to apply your last will is an ultimate proof of trust because you’ll not be able to monitor it since you’re dead. How fast can we reach this degree of trust and is it even necessary? Placing your trust in a software means also withdrawing your trust from a human (in this case a solicitor). This kind of technology would not be a system of distrust then? For the purpose of the fiction I’ve created a false law called « Digital Liability Act » that states that a software can be recognised as a legal person.
+
+(image: willchain2.png caption: giving your house is just as easy as a 1-second drag & drop)
+
+The second question asked is about how interfaces shape our behaviours and common symbols. Using Willchain’s services you can transfer your house to your family in less than two seconds just by drag and dropping the selected asset to the right column, is this right? Working with a solicitor and writing your will is a complicated process but it’s at least reflecting the complex life we’re sometimes living in, having a family, home buying and so on… Should all these human stories swipe to one column to one another in less than two seconds? Will it affect our relation to property if our estate transactions become that simplistic?
+
+<iframe src="https://player.vimeo.com/video/322002379" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+We should not forget that interfaces are also conceptual models that shape the way we perceive our own world, whether narrow or complex. We conceive interfaces as much as interfaces will somehow conceive us. This is a crucial point that designers should not forget and should accept as they design simplistic experiences or interfaces for a more and more complex reality.
+
+# Credits
+
+Design and Research – Gauthier Roussilhe
+Assistant – (link: https://cargocollective.com/SarahGarcin text: Sarah Garcin)
+Voiceover – Julia Holiday
+Date –  August 2016
+
+----
+
+Date: 2017-06-15 15:55
+
+----
+
+Author: 
+
+- gauthierroussilhe@protonmail.com
+
+----
+
+Category: Project
+
+----
+
+Tags: blockchain, willwriting, speculative design

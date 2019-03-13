@@ -1,0 +1,149 @@
+Title: A fundamental critique of seamless design
+
+----
+
+Text: 
+
+It seems that today the design community has agreed on key principles when it comes to interaction and experience. The interaction must aim at the maximum of flow[^1], the user must not be momentarily stopped in his/her experience by false tracks, errors or dead ends. To take advice from a company specializing in interface creation software[^2], the interface must be: clear, flexible, familiar, efficient, consistent and structured. The principles of the user experience[^3] share the same goals: “*Do not put any obstacles to overcome, just pave the road for an easy ride. Your designs should have intentional and obvious paths, and should allow people to complete tasks quickly and freely*”. We must not confront the user with a troubling, strange or even complex situation. Nevertheless, the advice above does not determine the nature of the interaction: a clear, flexible interaction (etc.) can be long and tedious. It can be equally short and simple by following the same principles. Yet, the broad community of designers interprets the creation of interfaces and experiences as a process to simplify the user’s experience regardless of its nature. This seems globally accepted and amplified.[^4]
+
+Hence it seems legitimate to ask the following question: should all experiences be simple and fluid? Is the simplification of experience a universal principle that must apply to everything, is that the intrinsic goal of “good” design?
+
+
+# I. The presuppositions of simplicity
+
+First, let’s understand why designers want to make the experience easier. My first guess is that the original context of the interaction is considered too complicated (signing up, choosing a product, / service, ordering, paying). My second assumption is that any friction is considered negative in essence. Friction can discourage or delay the impulse or act of purchase, or the user will not arrive at the service or information sought. My third assumption is that a simple experience saves the user time and this is one of the “metrics” that the designer aims for. In that case, which are these metrics that define the way the designer works and who defines them?
+
+If we examine the first assumption about the original context of the interaction, then we must ask ourselves in what way the original context is complex and especially in relation to what? Is it complicated because of the navigation process, formalities, technological standards, security steps, etc.? Is it complicated with respect to the capabilities and behaviors assumed / imagined / observed on the target user? Even when we want to test a service / interaction with a user, it has already been thought to be simple. The will of simplicity is so interiorised that it completely obscures its counterpart. In short, any user test is biased because only one model is searched for and refined, the simplification model.[^5] Proponents of simplification offer convincing arguments, highlighting the need for familiarity[^6] or the need for visually simple interfaces[^7]. However, how do you measure the complexity or real simplicity of an interaction / experience if the measurement scale is incorrect?
+
+(image: interaction1.png)
+
+Ultimately, is this complicated by the social, cultural, economic, moral or political standards that the user embodies? Indeed, an experience is based on an original context that links the technology used and its prescriptive standards that the designer can hardly circumvent. The latter therefore tries to align these inherent constraints with a more or less complete and relevant user profiling and with all the norms specific to the human context, that is to say related to the social context in which the user evolves. So there is indeed a complexity inherent in the context of the experience with which the designer must deal: standards and technological complexity and standards and human complexity.
+
+(image: interaction2.png)
+
+My second guess to justify the simplification of the experience is that the friction, this momentary mixture of doubt and complication, strongly harms the supposed goal of the experience: the act of purchase / consumption of a product or service. Indeed if we “slow down” the user in the activation of the experience then it is less likely to achieve its goal. In this sense, designers consider that the function of buying a single-click article (1-Click Patent[^8]) is a good design, its relevance being the subject of a patent filing ardently defended by Amazon. **But this rests on a very strong assumption: one imagines that the user shares the same goal as the proposed experience.** After all if the user engages in the experience is that it sees its own interest, right? However, the purpose of the experiment is the set of goals set by the company issuing the service / product and this set of goals is hard to discern for the user. It is even sometimes consciously hidden, we see appearing free applications that provide a basic service (compass, elevation, flashlight, etc.) but it is really looking for the capture of data to resell. **So the lack of friction can be treacherous for the user, because even if the fluidity of an experiment can fulfill the goals set by the client, it can also go against the integrity of the user.** Then maybe the aim for designers is to achieve seamfulness as it has been explored by Matthew Chalmers: *“Seamful design involves deliberately revealing seams to users, and taking advantage of features usually considered as negative or problematic.”*[^9]
+
+From the presupposed mentioned above emerges what seems to be a paradox of our discipline: the designers assume that the purpose of the presented experience is equivalent to the user’s goal, they believe that the user always expresses a conscious and reasoned choice in accessing the experience. If someone reads a book it’s because they wanted to read a book, if someone uses a service, it’s because they wanted to use this service. This assumption offers a very simplistic view of what living as a human being really is. For the sake of our designed experience we assume that users always act following their best judgement, in this case this “best judgement” being to use our service. It might be worth mentioning to designers the greek concept of “akrasia” (Plato’s Protagoras), meaning the gap between knowing what’s good for me (my best judgement) and still not acting accordingly. Later, in Nicomachean Ethics, Aristotle expands on the topic providing three cases in which someone can go against its best judgement: ignorance of particular facts, being under the influence of passion and the necessary choice between several opinions. These 3 levers have been particularly useful for designers so far, maintaining the user in an akratic state. **So it’s possible for a designer to go against someone’s best judgement by providing a service that meets somehow user’s goals because we’re maintaining the “akratic state of the experience”.**
+
+Thus the UX design literature encourages to meet the goals and needs[^10] of the user by improving the experience itself. But the experience has its own goals and needs expressed by the client and interpreted by the designer. Thus by enhancing the experience, supposedly aligned with the user’s goals and needs, **designers generally improve the goals of the experience itself, not the user experience.**
+
+(image: interaction6.png)
+
+My third guess, concerning the simple experience as time saver, is related to the previous conclusion. A frictionless experience must logically be a faster experience. A simple experience is an experience that more effectively fulfills its goals (and not necessarily those of the user as explained above). But the experiences offered vary very often from one service to another: a social network has been designed to be a simple experience, or at least well accompanied, yet these services are large consumers of the user’s time without gain significant for him/her and without the emergence of a specific goal by the same user. Moreover, this problem[^11] has recently led to public health issues, public policies, commitment and perhaps even responsibility. The experience of a social network allows us to show that a simple experience does not save time every time, it can even turn into a trap in which the user would end up as a guinea pig prisoner of the simple experience of its wheel.
+
+If saving user’s time is an official KPI (Key Performance Indicator), where do KPIs come from? KPIs are goals set by the client for the designer to pursue. They are the real mundane indicators that drive the experience design: conversion rate, completion time, time per task, task success, system usability scale, etc. They’re broadly used as complexity controls. In this sense, complexity refers to user’s goals because they cannot be determined as clearly as the client’s ones. An user doesn’t come with its KPIs and it is supposed too costly to get a sense of what one wants. So an experience is a one-sided relationship in which only one part is providing its rules to control the other one. In this biased situation user experience often refers to user control in most cases. As Christina Xu would put it: *“The pursuit of simplicity is often an endless pursuit of perfect user control.”*
+
+
+# II. Friction as human interaction
+
+So far I have been careful not to define what I call “friction” as it seems to reflect strong ideological aspects. The most redundant definition is “*anything that prevents the user from accomplishing his purpose*”[^12]. “Friction” can be synonymous with slowing the economy in the form of micro-slowdowns of consumption cycles necessary for growth (“More delivery, less friction”[^13]). “Friction” can also be the standards related to the technological system[^14] used previously. “Friction” can simply be synonymous with bad practice[^15] in the design of a service. Hegemony emerges from the design community where friction is considered the weed of design and must be eliminated.
+
+(image: interaction11.png)
+
+Yet many designers have addressed the issue of friction, some have become fervent advocates, some have understood its usefulness to some extent[^16]. Interesting models have emerged to help designers to grasp the question of memorization[^17], knowledge and self-awareness in the experience.
+For my part, it seems to me that what we call friction is the meeting between the goal(s) of the user and the goal of the client of the experience (whose designer is the messenger). This friction is more of a “natural” phenomenon that emerges from experience.
+
+(image: interaction7.png)
+
+This phenomenon seems little understood and generally rejected by the designer because it should be agreed that the user can have multiple goals (related to different socio-cultural contexts), singular abilities (differences in skill levels) and motivations interiorised or clearly expressed. It’s noticeable, however, that the client must be navigate with its own complexity, sometimes shared with the user, but the client went through a decision stage in which it decided of its goals and therefore is able to express and gather them in a economic-sound, rational strategic view.
+How to design an experience by taking the user (and his goals) in the face of such complexity? Either by reducing the scale at which we can work effectively, but this is hardly complementary to the client’s goals, ie by positioning himself at the other end of the line; by working only with the specific, expressed and identified goals of the client. It seems to me that this disgust of friction in the practice of design stems more from a refusal to engage in a human complexity that is unmanageable but nevertheless very real. The technological complexity deployed and used in the design becomes, conversely, ultimately much more appreciable because limited, short-term and understandable.
+
+(image: interaction8.png)
+
+In addition, friction is not necessarily synonymous with extra time or slowing down. The time invested in a friction can be gained time over the entire experience or the time gained on the set of repeated experiences by the user. The first time will take more time, the second time a little less time, etc. The long-term learning process can gradually reduce the amount of time spent on friction and the user wins, as he will have learned to negotiate with a complex experience and become more resilient to future problems.[^18]:
+
+We can clearly see all the complex features of the experience that pushed most of the design community to opt for the simplicity of the experience as a universal principle of default design. We have more or less decided to avoid any human complexity and therefore social complexity, it would have taken time and the economic model to which the design responds would not allow it. In fact, the current model of experience design is based on the construction of “experiential highways” leading straight to the toll, built far from the reality of social and human interactions. Conversely a “complex” experience would be a secondary road network with its difficulties of navigation, its crossing of cities and villages, its many choices but also with the chance of meetings, more or less pleasant, its parallel services and its interactions in the margins.
+
+Concluding with the metaphor of the road I would like to quote Julian Bleecker from Sliding Friction’s postface: “*Friction is a force exhibited at the point of contact between two objects. As a metaphor, friction is a powerful image describing where life happens.*”[^19]
+
+
+# III. Where to place human interaction?
+
+It seems that this model is based on a modern Western view of the experience where the interaction with another human is the last resort of the user. As such, many of the technologies implemented in the experience were aimed at avoiding this inevitable encounter: chatbots, extended FAQ with search engine, even pseudo-IA and predictive algorithms.[^20] **Somehow we handed our concept of trust to the technological world, thinking that technological trust will produce fairer outcomes** because we always forget that technology isn’t neutral and because we still believe that technological trust will behave as an organic trust.
+
+Of course this model also reflects the mechanisms of the Western labor market where a human employee costs more than an API. This dynamic is no less based on a presupposition that thinks human interaction (understanding with another human) inefficient, poorly performative, too complex, difficult to quantify and therefore too expensive. In addition, the interaction with a technology agent does not commit to the immediate resolution of the possible problem encountered by the user. At best the problem is part of the scenarios programmed in the technological agent and can be solved, at worst the problem joins the list of tasks to be manually processed by a human agent, the resolution is postponed.
+
+This Western model does not seek to consider the rich functions that human interaction fulfills. But if we decide to look at how the experience is built elsewhere then we can also see the richness inherent in human interaction in experience emerges. For example, the Chinese concept of “má fán”, as explained by ethnographer Christina Xu[^21], refers to the concept of unexpected events, unexpected complications that will inevitably make you move away from what you wanted to achieve today. The Chinese taxi service “Didi” is the terrain of a practice that will look very strange in a Western service: when you book a taxi the driver will immediately call you to know exactly how to reach you and recognize you and avoid a situation of “má fán” later (spending time searching for uselessly). This would be considered as a friction in the North America or in Europe.This example makes it possible to highlight the inversion of the role of the human in the service experience. This Chinese taxi experience will begin with a human interaction, sometimes complex and producing “friction”, to ensure the ease of use of the service. A similar experience in Europe or North America will tend to guarantee the technological efficiency of the experiment and will put human interaction as a last resort.
+
+(image: interaction3.png)
+
+A simple experience is associated with a controlled experience that will generate the least problem of understanding and use. Conversely, a complex experience will be an uncontrolled experience that may lead to problems of understanding and use, or worse, unplanned complications. It seems to me then that the nature of experience, as it is thought today in the United States or in Europe, rests on the assumption that human interaction is complex and that the positioning of this interaction in temporality of experience defines the nature of it.
+
+I would like to make a simple reminder here of what is meant by “complex” and “complicated”. I’m referring to Edgar Morin’s definition[^22], the “complicated” is an accumulation of simple elements, for example the accumulation of tabs in your browser is not complex, but gives the impression that it will be complicated to consult them all. The “complex” is defined as the interdependence and interrelation of elements belonging to one or more systems and can not be summarised in a total law or principle.
+
+In this sense, human interaction in experience is certainly complex. This interaction involves a socio-cultural, political, technological and economic context in which experience must be combined. The user himself has abilities, values, and intentions with which to compose. But after all, is not the design at the service of the user? Should not the designer rely on these complex contexts and the values ​​and intentions that emerge from them rather than avoiding them? After all, if we strive to simplify all the experiences of the user, who is only one of the facets of a human being who can be mother / father, citizen, etc., do not we betray the values ​​and expectations of it? Should the experience of buying or selling a house be a simple experience when it represents a major event in the life of an individual or a couple? Should the major events in a human being’s life not be complex experiences that deserve to be celebrated? A few years ago I conceptualised an online service for writing and activating wills. The process of choosing who the beneficiaries are for each of their assets takes only a few minutes and operates with great fluidity. The result of this operation is finally to transfer the ownership of my house to someone else, the experience has never conveyed the importance and the symbolism of this gesture. **The social rite of the notarial meeting, although potentially exhausting and complex, has at least the capacity to reflect the seriousness of the decision taken and thus produces a necessary value for the “user”.**
+
+It seems to me that it is in these multiple frictions that value is created, certainly less quantifiable than economic data. By going so we are getting closer to the essence of social rites[^23]: we sometimes engage in social or other experiences, which are in principle useless from the point of view of individual logic, but which give value to our actions, a sense shared by the same social fabric. The practice of design should examine these rites in order to understand how to think the rites of experience or even better, how to open the space necessary for the emergence of social rites.
+
+# IV. Seamless because meaningless, frictional because meaningful
+
+If we can consider the complex experience, this experience of friction, as a possible then how is it articulated and also how does it relate to the simple experience? At first, it is a question of differentiating the respective goals of each of these experiences. As mentioned above, the simple experience is ultimately fast, effective leading to the act of purchasing or using an identified service. We tend to make this course as pleasant as possible so that the experience is repeated, but also to build familiar brand environments. This type of experiment is not intended to memorize a specific “knowledge” or not to perform a complex interaction since their interfaces are designed to be used as simply as possible, without any prior knowledge. In these circumstances it seems that the experiment is of little value to the user, the interface guides the user from A to Z and, in this sense, should take only a short time.
+
+Indeed most of the experiments proposed today do not seem to favor the memorization of the experience as such, but aims to leave a feeling of comfort, without friction. Tinder’s experience is not aimed at memorizing each profile encountered, on the contrary. Facebook’s experience is not aimed at memorizing content offered by your network or sponsored content nor does it promote understanding of the topics covered. Most current social platforms rely on impulse mechanics that will quickly internalize the user’s behavior desired by the designer and its client. The intrinsic speed of these mechanisms excludes any long-term process: memorization, comprehension, reflectivity.
+
+A first modelisation of the simple experience is possible. **A simple experiment should mobilize a minimum of the user’s time because it does not tend (or should not tend) to positively affect the values ​​of the user over the long term and in this sense is of little value for the user.** Thus the simple experience should be fluid because without intrinsic value for user: fast, fluid and efficient.
+
+(image: interaction4.png)
+
+A complex experience should aim at mediating user values ​​involving human and technological interactions over a longer time frame. It seems to me that the experience, that is to say the meeting between a user and an interface, should produce a certain value only if the user decides that it has value for him, but we never ask the question in a direct way. How does one create value for the user if one does not know if the experience in itself has value for him. Buying shoes on the internet does not have the same value for me everyday and this same potential value is relative to an infinite number of contexts: do I buy for myself, to surprise my partner, for a specific activity, etc. I believe that instead of speculating on the values ​​of the user the best way to do is to ask him at the beginning of the experience if it has value for him/her and modulate the experience accordingly. What I call “value” here is the ability of the experience to resonate with the user’s expectations, motivations, intentions, reflections, in other words, resonate with the mindful user. But this process of resonance takes time and necessary friction. **The complex experience therefore aims to create the necessary conditions for the user to appropriate the experience and negotiate (its goals) with it in order to enable a lasting resolution. This is probably a process of learning, understanding and self-awareness.**
+
+(image: interaction5.png)
+
+It is therefore a question of showing new forms of experiences based on the values of the user, the time of the experience and the friction, necessary or not. A complex experience will more regularly integrate human interactions, generating friction but also unexpected resolutions, aimed at a global process of learning and understanding. A simple experiment will aim for immediate effectiveness of the clearly identified user’s request, reducing the time required for this resolution.
+
+
+# V. Simplicity is an ideology, so it can be challenged
+
+In the end I believe that experiences proposed by designers, whether simple or complex, should be based entirely on a fundamental parameter: choice. Indeed the user should be able to choose what type of experience he wants to use based on his intentions and values. For example, when a user accesses a shoe sales website, he or she may be asked if he or she values the fact of buying shoes today. Depending on his response he will be integrated into a more or less complex experience where he will also be able to learn more than he came to seek.
+
+(image: interaction10.png)
+
+This mechanism has existed for a very long time in a primary form in the interfaces of software and video games. This is simply to offer access to the advanced settings. But this mechanism assumes that the user knows what he is doing and he has nothing more to learn. **We need to reconstruct this mechanism by thinking of it as the starting point of the complex experience, of learning and therefore of fulfillment.**
+
+(image: interaction9.png)
+
+Finally what designers call “simplicity” is an ideology more than a principle of “common sense” and like any ideology it can be challenged. It seems to me that the ideology of simplicity has more than ever to be challenged in view of the harmful impacts produced by the designer on the user. This ideology produces a dialectic that opposes two principles: helping brands to sell or helping the user to understand. The real consequences are that User Experience design pursuing the ideology of simplicity is no more than User Control Design. To quote Christina Xu again: *“the more “simple the design, the more control the designer has stripped away from the user”.* This fundamental conflict of design can not be hidden indefinitely. It is beginning to appear in the open and must be absolutely debated by the design sector so that everyone can take responsibility and formulate their ethics accordingly.
+
+*I would like to thank Christina Xu for her help improving this paper and her amazing insights on the topic. I’m deeply thankful.*
+
+[^1]: Jenova Chen, "Flow in Games" (2016) MFA Thesis. (http://jenovachen.com/flowingames/Flow_in_games_final.pdf)
+[^2]: https://www.invisionapp.com/inside-design/core-principles-of-ui-design/
+[^3]: http://uxmag.com/articles/guiding-principles-for-ux-designers
+[^4]: https://trends.uxdesign.cc
+[^5]: https://conversionxl.com/blog/why-simple-websites-are-scientifically-better/
+[^6]: https://www.uxmatters.com/mt/archives/2011/07/how-cognitive-fluency-affects-decision-making.php
+[^7]: http://www.eecs.harvard.edu/~kgajos/papers/2013/reinecke13aesthetics.pdf
+[^8]: https://en.wikipedia.org/wiki/1-Click
+[^9]: https://pdfs.semanticscholar.org/9635/d20279046b8e72b4e76c4cb9000af90cbd94.pdf
+[^10]: https://www.usertesting.com/blog/2015/09/16/what-is-ux-design-15-user-experience-experts-weigh-in/
+[^11]: https://medium.com/thrive-global/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3
+[^12]: https://thenextweb.com/dd/2015/03/08/how-to-reduce-friction-with-good-design/
+[^13]: https://medium.com/@WiedenKennedy/welcome-to-new-economy-optimism-1633d73551eb
+[^14]: https://blog.codinghorror.com/reducing-user-interface-friction/
+[^15]: Steve Krug, Don't Make Me Think: A Common Sense Approach to Web Usability 
+[^16]: https://www.smashingmagazine.com/2018/01/friction-ux-design-tool/
+[^17]: https://medium.com/@acuity_design/designing-for-forgetting-dee7467e5717
+[^18]: https://airbnb.design/the-fiction-of-no-friction-2/
+[^19]: https://www.girardin.org/fabien/publications/sliding_friction.pdf
+[^20]: https://www.forbes.com/sites/shephyken/2017/07/15/ai-and-chatbots-are-transforming-the-customer-experience/
+[^21]: https://vimeo.com/209792795
+[^22]: http://www.seuil.com/ouvrage/introduction-a-la-pensee-complexe-edgar-morin/9782020668378
+[^23]: http://www.persee.fr/doc/arss_0335-5322_1982_num_43_1_2159
+
+----
+
+Date: 2018-03-18 16:05
+
+----
+
+Author: 
+
+- afivos@me.com
+
+----
+
+Tags: Design
+
+----
+
+Gallery: 

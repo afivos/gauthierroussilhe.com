@@ -1,0 +1,7 @@
+type: pages
+headline: Posts
+parent: site.find("posts")
+info: "{{ page.date.toDate('d.m.Y') }}"
+template: post
+empty: No posts yet
+sortBy: date desc

@@ -1,0 +1,85 @@
+Title: Denbighshire Adaptation Game
+
+----
+
+Intent: Faire une enquête de terrain sur les stratégies d’adaptation aux risques d’inondation dans le nord du pays de Galles et concevoir un jeu de société destiné à sensibiliser les citoyens locaux
+
+----
+
+Text: 
+
+# Le "Denbighshire Adaptation Game" est un jeu de société visant à sensibiliser les citoyens de Rhyl aux futurs risques liés au climat et aux activités humaines, aux potentielles stratégies d’adaptation pour la planification urbaine du comté (nord du Pays de Galles).
+
+Ce projet a débuté sous la forme de recherche de terrain dans la ville de Rhyl située sur la côte nord du pays de Galles. Rhyl était une destination touristique prisée par les travailleurs de Manchester et de Liverpool pendant le XXème siècle, jusqu'à perdre lentement son attrait en raison de l'émergence des vols à bas prix vers l'Espagne et le sud de l'Europe. Une ambiance de Coney Island entoure la ville avec quelques casinos en bord de mer et une vieille fête foraine. La topologie de Rhyl repose également sur son impressionnante défense côtière, Rhyl a été inondée à plusieurs reprises durant le siècle dernier jusqu'à aujourd'hui, la plus récente inondation ne datant que de 2013. La ville est l’un des endroits les plus vulnérables du littoral nord gallois.
+
+(image: flood0.png caption: Rhyl and surroundings)
+
+# Une pierre angulaire paradoxale
+ 
+Rhyl est un point vulnérable de la côte nord mais il est également l’un des plus protégés. Depuis l'inondation de 2013, la défense côtière a été renforcée et quelques initiatives intéressantes ont vu le jour. Par exemple, le terrain de golf le long de la côte a été modifié pour servir de réservoir en cas d'inondation, 12 000 arbres ont été plantés en 2018 pour atténuer les risques d'inondation provenant de la rivière à proximité (un des effets recherchés parmi d'autres).
+
+Néanmoins, après avoir interrogé quelques habitants, un garde-côte et des conseillers locaux, un paradoxe est mis en évidence: si Rhyl renforce sa défense, le risque d'inondation pourrait être déplacé le long du littoral vers des villes plus vulnérables et moins préparées comme Chester par exemple. Donc, Rhyl et les villes environnantes ont un rôle dangereux à jouer: elles doivent continuer à absorber les inondations à venir et faire partie de la lutte contre les inondations et l'érosion sur les côtes, sans pouvoir construire davantage de défenses. Face à cette situation précaire, de nouvelles stratégies doivent être trouvées et mises en œuvre localement. La stratégie la plus courante pour les villes confrontées à cette situation est généralement 'l'adaptation et l'atténuation.'
+
+Les prévisions climatiques dans la région sont également alarmantes, car la majeure partie de Rhyl et de la baie de Kinmel passerait sous le niveau de la mer si le réchauffement climatique se poursuit sur la même trajectoire. Être sous le niveau de la mer ne signifie pas être automatiquement inondé, la plupart des Pays-Bas vivent sous le niveau de la mer, mais cela signifie que la seule chose qui vous empêche d'être inondé est un système complexe de digues, de réservoirs et de défenses côtières créé par l'homme qui doit être constamment surveillé et maintenu.
+
+(image: rhyl.gif caption: sea level simulation from 0 to 3.5°C)
+
+
+# La question de la prise de conscience
+
+Comme le rapportait l'auditeur général du pays de Galles dans le rapport de 2016 sur la gestion des risques d'inondation et d'érosion côtières au pays de Galles: "*Le gouvernement gallois a collaboré avec ses partenaires pour sensibiliser davantage aux risques d'inondation et d'érosion côtières, mais il a été prouvé que le public a encore une compréhension limitée des implications de la retraite gérée*".[^1] La 'retraite gérée' est probablement la principale approche préconisée pour le développement futur dans les terres intérieures du comté. Cela signifie: "*en permettant au rivage de reculer et en identifiant une nouvelle ligne pour les défenses côtières. Cette approche a des implications profondes car la protection de la communauté contre le risque d'inondation progressive risque de devenir insoutenable à l’avenir et les résidents pourraient être obligés de s’installer dans des zones à moindre risque*".[^2]
+
+Les citoyens sont peu ou pas au courant de cette approche et de ses implications pour leur mode de vie et plus globalement pour leur ville dans un avenir proche. Une question demeure: ce rapport issue d'un organisme gouvernemental se traduira-t-il réellement en action et en stratégie à long terme?. Les stratégies semblent être discutées à un niveau supérieur dans une hiérarchie descendante et les citoyens ne sont pas clairement impliqués dans le processus de prise de décision. La question de la sensibilisation signifie décider de ce que les citoyens doivent savoir et comment le sensibiliser aux sujets choisis. À ce jour je n'ai pas pu trouvé d'évidences ou d'historique sur les actions de sensibilisation menées sur le territoire (je suis preneur de sources à ce sujet). Les changements climatiques font partie d'une histoire mondiale des impacts humains sur nos écosystèmes et le mode de vie de nombreuses personnes autour de la planète changera radicalement, que ce soit voulu ou non. Alors, comment impliquer localement et progressivement les citoyens dans une discussion sur les changements à venir pour les communautés sur un territoire?
+
+# Faire un jeu
+
+Lorsque je suis retourné à Rhyl et à Kinmel Bay pour une deuxième recherche sur le terrain, j'ai rencontré Stuart Anderson, ancien conseiller municipal, et Barry Griffiths, conseiller municipal en fonction, qui ont mis en place le programme de "flood wardens", une initiative bénévole visant à informer et à prévenir les habitants des risques d'inondation et des méthodes d'adaptation possibles (logement, plan d'évacuation, etc.). Barry décrit leur action avec un réalisme certain: "Nous arrivons devant la porte des gens avec une conversation qu’ils ne veulent pas avoir". La manière dont les politiques d’adaptation aux changements climatiques influenceront le mode de vie des gens est en effet un sujet complexe et les personnes les plus vulnérables au risque d’inondation ont tendance à être les plus précaires sur les plans social et économique. Dans ce cas, les implications du changement rencontrent un puissance d'agir limitée.
+
+(image: flood2.png caption: Barry, left,and Stuart next to the sea defences)
+
+Je suis vers Stuart et Barry avec l’idée de faire un jeu pour faciliter la conversation autour d’un objet tangible qui implique de s’asseoir à une table et de discuter tout en dépliant l'avenir possible du territoire et des dépendances. En outre, le jeu peut avoir une vertu éducative permettant aux gens de comprendre les événements susceptibles de se produire, les solutions ou projets possibles et les changements prévus. Il était destiné à être joué comme un jeu de famille où les enfants peuvent participer à la conversation car ils sont encore plus concernés par cette discussion. Même si le jeu n’a pas répondu aux attentes de Stuart, nous continuons d’avancer pour l'améliorer et le tester à nouveau avec les écoles locales et les citoyens du comté.
+
+(image: flood3.png caption: Playing the game)
+
+# Règles du jeu
+
+Le Denbighshire Adaptation Game est un jeu de stratégie à tuiles. Chaque tour, deux évènements se répètent: 1) l'eau monte (attribuée au hasard au tableau par un jet de dés); 2) un événement (climatique ou humain) se produit. Le jeu est joué par 2 joueurs, un avec Rhyl, un pour Rhuddlan (une autre ville) et un animateur. Les deux joueurs peuvent décider de jouer en coopération ou non en fonction de leur propre stratégie, même si les événements peuvent les pousser à jouer ensemble. Le but du jeu est de se maintenir et de s’adapter jusqu’à la fin du jeu ainsi que de ne pas manquer de «ressources» (réserves, énergie, population, points d’adaptation). Les joueurs doivent développer leur ville pour s’adapter aux événements et maintenir leurs ressources en même temps. Le jeu permet une certaine liberté de choix car l'animateur agit comme un maître de jeu avec lequel vous pouvez poser des questions et négocier.
+
+Le jeu est sous creative commons et est librement utilisable par tous. Le prototype de livret de règles est disponible au téléchargement avec un prototype en papier du jeu.
+
+(image: flood4.png caption: Discussing with Stuart about the game)
+
+# Crédits
+
+Recherche et design - Gauthier Roussilhe
+Collaborateurs locaux et personnes interviewées (Rhyl et Kinmel Bay) - Stuart Anderson, Barry Griffiths, Garry Davies, Andrew Richards, Marshall (école de Kite surf), Gerrard Butters
+Date – Juin 2018
+
+[^1]: Auditor General for Wales, "(link: https://www.audit.wales/system/files/publications/Coastal-flooding-eng_0.pdf text: Coastal Flood and Erosion Risk Management in Wales)" (Cardiff: Welsh Audit Office, 2016) p.10 (traduction personnelle)
+[^2]: Auditor General for Wales, "(link: https://www.audit.wales/system/files/publications/Coastal-flooding-eng_0.pdf text: Coastal Flood and Erosion Risk Management in Wales)" (Cardiff: Welsh Audit Office, 2016) p.9 (traduction personnelle)
+
+----
+
+Date: 2018-09-15 21:00
+
+----
+
+Author: 
+
+- afivos@me.com
+
+----
+
+Category: Project
+
+----
+
+Tags: climate change, coastal risks, game design, facilitation
+
+----
+
+Description: 
+
+----
+
+Gallery: 

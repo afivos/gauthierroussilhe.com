@@ -1,0 +1,222 @@
+Title: Digital guide to low tech
+
+----
+
+Text: 
+
+In March 2019 I put my new website online following "low tech" design principles. I decided to do this because, first, I was impressed by the redesign of (link: https://solar.lowtechmagazine.com text: solar.lowtechmagazine.com). Their site has become extremely light thanks to a sensible approach. Furthermore, they thought about energy: their own server is powered by a solar panel and a battery, which means that if the battery is flat and if the weather is bad then the site is no longer in line. Second, for the past two years I have been interested in the concept of Anthropocene, social and ecological transition policies and the impact of digital industry on ecosystems. This research and field work allowed me to completely shift my practice and I wanted to develop a tool that could demonstrate this change of design practice and inspire others to do the same.
+
+(image: low16.png caption: Low Tech Magazine, our herald)
+
+I tried through this guide to unroll all the logic behind the design of this low tech site and thus list all the tools and references that are useful for carrying out such projects.
+
+# Table of contents
+1. [Starting point](#introduction)
+2. [Design principles](#principles)
+3. [What kind of hosting?](#server)
+4. [Making a website with Kirby](#site)
+5. [Design](#design)
+6. [Adapt your content](#content)
+         a. [Images](#image)
+         b. [Video](#video)
+7. [How to calculate energy consumption and CO2 emissions](#energy)
+8. [Results](#results)
+9. [Tools and publications](#doc)
+
+# Starting point <a name="introduction"> </a>
+
+A large part of my approach was affected by the "Lean ICT: for a sober Digital" report of the Shift Project. The conclusions of the report [^1] bring back to Earth:
+1. ** The trend towards digital overconsumption is not sustainable with regard to the supply of energy and materials it requires. ** Too much energy demand, too much electricity consumed, increase in emissions GHG, explosion of video uses and multiplication of terminals, the digital transition is placed in cantilever of the social and ecological transition.
+2. ** The energy intensity of the digital industry is increasing globally, unlike the energy intensity of world GDP **. For example, the direct energy consumption caused by a euro of digital industry has increased by 37% compared to 2010 (1€ of Cloud services consumes 37% more energy than in 2010). To make it clear, the relative efficiency allowed by the digital industry is only because we inject more and more energy in the system. [^2]
+3. ** Current digital consumption is highly polarized. ** Developed countries overconsume digital services and investment in digital industry has no clear effect on GDP to this date.
+4. ** The environmental impact of the digital transition becomes manageable if it is more sober. ** We can rely on existing energy to curb the increase in energy consumption and try to stabilize related GHG emissions.
+
+Beyond these conclusions, the report highlights that digital energy consumption is mainly in the production of equipment and that the overall consumption (production and use) explodes.
+
+(image: low1.png caption: Digital power consumption per station in 2017)
+
+(image: low2.png caption: Digital Power Consumption vs. Global Energy Consumption)
+
+# Design principles <a name="principles"> </a>
+
+How to use this report to bring out practical answers to these observations? Given that the question of renewal and durability of equipment is a priority then it is to make them undergo the least load possible requiring the least space possible. It can be assumed that if traffic is stable, the size of hosted files is reduced then there will be less data to transport; less calculation associated, we do not participate in the increase of the IT stock and structurally we consume less energy.
+
+1. On the hosting side, reduce the weight of the site, the calculation request and the flow of data to its *maximum* and on the client side, reduce the average page weight to its *maximum*;
+2. Making technical choices that use the least amount of equipment available or that distribute the effort on existing and sustainable equipment;
+3. Bring back the content of the site to the *essentials* and drastically reduce the weight of the remaining content;
+4. Make the process visible and document it.
+
+In the principles stated above. There are two relative that I would like to explain, "maximum" and "essential". I am talking about reducing the average page weight to its "maximum", it actually means how far I am willing to go to reduce the content and how do I compare to a previous value. Without being able to correctly calculate the power consumption of my site and without being able to give me a goal in kWh, I decided to give me an average budget of 500kb / page based on the weight trends of the web developed (link: https : //mobiforge.com/research-analysis/the-web-is-doom text: here) and (link: https://idlewords.com/talks/website_obesity.htm text: here). Having an average weight of 500kb / page brings back the average of 2010 and it would leave me enough room to integrate some images for each project. This personal negotiation to impose a structural limit (energy / weight) seems to me extremely important because it will structure the content as we will see later.
+
+(image: low4.png caption: Weight evolution of web pages by object)
+
+More broadly, this project is already based on the principles developed by Philippe Bihouix [^3] as well as on the (link: https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website .html text: documentation) of Low Tech Magazine and the (link: https://www.greenit.fr/2009/05/12/5-regles-pour-un-site-web-plus-respectueux-de-l -environment / text: advices) by Frédéric Bordage of greenit (in French), I just allow myself to reiterate what they have developed and humbly add my stone to the building.
+
+# What kind of hosting? <a name="server"> </a>
+
+I immediately thought about leaving my existing hosting plan at OVH and subscribing to a "green" hosting offer. Finally I started by doing an audit of the equipment that I mobilize. It turns out that I rent a space at Linode (data center based in London) to host the interactive version of the documentary (link: http://www.ethicsfordesign.com/watch text: Ethics for Design). After a year and a half of broadcasting I have a more precise knowledge of the traffic and I decided to reduce my hosting plan with Linode. I also took the opportunity to cancel my hosting plan at OVH and repatriate all my sites to Linode to maximize the use of this server. In the end thanks to this little exercise I reduced my costs and reduced my uses on the hosting side.
+
+Here are the (very classic) steps that I followed:
+1. Make an audit of the equipment that I mobilize;
+2. Resize the uses of this equipment in relation to the traffic and observed uses;
+3. Verify that the data center is geographically close;
+4. Obtain information about the data center's energy supply, its PUE, its purchase and recycling policy (failure);
+5. Change to a more transparent offer as soon as possible;
+6. Try to figure out the website's power consumption data and calculation methodology.
+
+(image: low5.png caption: Specifications of the nasty server which gives no information on its functioning)
+
+I decided to stay with Linode for the moment even though I could not get any convincing information about the data centers they use because I have to continue to respond to the traffic generated by the documentary and I want to operate smoothly on this point. It does not seem interesting to self-host because it would involve the purchase of more or less new equipment that I can not repair. Having a little space on a shared server is much more sober in my opinion.
+
+Before choosing for your hosting services I still advise to read the (link: https://www.greenit.fr/2009/05/18/quels-criteres-pour-identifier-un-che-gerger-vert/! Text: advice) of Frédéric Bordage (in French). Having this in mind here are some of the "green" hosting services to test:
+- (link: https://www.aiso.net text: Aiso)
+- (link: https://www.infomaniak.com/en/ecological-hoster text: Infomaniak)
+- (link: https://www.greengeeks.com text: Greengeeks)
+- (link: http://www.all2all.org text: all2all)
+- (link: https://www.eco-host.co text: Ecohost)
+
+# Making a website with Kirby <a name="site"> </a>
+
+The Homebrewserver Club has already very well documented how they have set up the site for Low Tech Magazine and I advise to read this closely (link: https://homebrewserver.club/low-tech-website-howto.html text: article) that addresses both hardware and software topics. However with my web developer friend, we wanted to test (link: https://getkirby.com text: Kirby) as content manager (CMS) instead of Pelican for two reasons . First we wanted to test Kirby's compatibility with low tech principles. Secondly, we would like to develop a solution that is accessible to actors with little budget capacity (villages, NGO, etc.) so that they deploy sober, simple and easy-to-maintain digital tools.
+
+(image: low7.png caption: Kirby, a love of backend)
+
+It turns out that Kirby is very easy to access, does not need a database (flat-file), is very light (5mb install), has an active community and is open-source. In addition we had access to a tool (cookbook) to transform websites made with Kirby in static site. To put it simply, a static site pre-generates all its pages in html and sends them as it is. A dynamic site generates the page for each visit. A static page is generated once for 1000 requests, a dynamic page is generated 1000 times for 1000 requests. So a low tech website is necessarily a static site. So we developed our site normally and once the development finished we made the website static using this (link: https://limits-drive.mycozy.cloud/public?sharecode=NXkXbuSGsdEp text: ** cookbook ** ).
+
+(image: low15.png caption: Write an article in markdown with Kirby)
+
+Kirby is an excellent content manager that is as easy to handle for a NGO volunteer as it is for a town hall employee or a seasoned designer. The total weight of the website on our server is now 22Mb (against 200Mb on my old one managed with a Wordpress). I manage the "database" with the Finder via GitHub and the back end is very fast. Overall Kirby meets all of our low tech criteria and we will continue to use the tool in this way: Kirby is definitely a sober and accessible CMS for everyone. Its only current flaw is its resilience and its maintenance over time. Wordpress is much more likely to continue to be maintained and updated in the next decade than Kirby, so this is a bet on the future.
+
+# Design <a name="design"> </a>
+
+The constraint set by the average page weight implies working differently with the images / videos which generally constitute 90% of the weight of a website. It means fewer images, smaller and treated differently. I also put aside all the superficial stylistic elements (animation) and reduced the use of Javascript as much as possible. In general, I was greatly inspired by the Low Tech Magazine approach which remains the main reference for the moment and by the website of (link: https://www.monde-diplomatique.fr text:le Monde Diplomatique) for text management. Like Low Tech magazine I do not have a logo, I use default fonts installed on the terminal, there are no tracking tools or third party service.
+
+The design of the website is fairly standard and is mainly oriented to a pleasant reading of often lengthy texts that are present. For those who would like to deepen the design aspects of Low Tech Magazine I recommend this (link: https://github.com/lowtechmag/solar/wiki/Solar-Web-Design text: article).
+
+In terms of design the low tech principles offer many fields still unexploited that will require a lot of imagination and innovation to adapt to the structural constraints of technical and energy systems. Everything is to be done and I hope that more and more experienced designers will seize it to propose new aesthetics and experiences.
+
+# Adapt your content <a name="content"> </a>
+## Image <a name="image"> </a>
+
+The image processing has met a weight requirement. I set a limit of 100kb per image. Knowing that I have 500kb available on average per page I allow myself to 3-4 images per page on average. To reduce the weight I followed the method used by the Low Tech Magazine by exporting my images to the web with the following parameters:
+
+<div class = "grid">
+        <div class = "col-6_sm-6">
+        (image: low13.png caption: export for web in grayscale with Photoshop / Illustrator)
+        </div>
+
+        <div class = "col-6_sm-6">
+        (image: low14.png caption: export for the web with selective mde if colors should appear)
+        </div>
+</div>
+
+Some images, especially diagrams, run around 16kb per image so I was able to lower my average compared to other pages that exceed it. It also allows me to embed more images into a priority post like this one.
+
+This image regime has not particularly impacted me because the projects that I present on this website require mainly reading and the images serve only as support. Modifying the quality of images through dithering does not reduce their support function, on the contrary, they support the message even more. However one of my projects consisted of a series of maps, so it was important to maintain a high image quality to allow the reading of these maps. My solution was to display one or two maps while trying to compress them to the maximum of their readability. The rest of the maps are not displayed and you only have to manually click on a link to open them. This will allow me to limit the number of requests only to people really interested in these maps.
+
+If you do not want to go through the dithering technique and therefore maintain your images in their original aesthetics then you can use a compression service like a (link: https://resmush.it text: reSmushit).
+
+## Video <a name="video"> </a>
+
+It is on this point that I will make my major contribution as it is on the video production that I have the most expertise. The first thing to do is to audit videos that are hosted on third-party services (Vimeo, Youtube mostly) and determine their total weight on these services. I had more than 14GB of video hosted on Vimeo but this is the theoretical weight because between server redundancy and multiple copies of inferior quality we can happily double the theoretical weight.
+
+These 14GB of video that I put online on a video hosting service can be explained by several factors:
+1. I am looking to export my videos from Premiere and After Effects with maximum quality by default (1920 * 1080, 25fps, mov format, H264);
+2. I do not think about the real use of these videos, I just put them on Vimeo and then I integrate them as needed;
+3. The only limit proposed by the hosting service is a weekly quota of 5GB;
+3. I have never previously associated a volume of data with electricity consumption and therefore with greenhouse gas (GHG) emissions.
+
+Also if I take the example of the English version of the documentary (1.6GB) on Vimeo, I generate 3862 readings per year with an average completion rate of 28% (448Mo sent on average). This means that this video has already mobilized the sending of 1730GB, plus the direct download of 174.5GB (210 downloads of 830.9Mo on average). I almost get to 2TB of data sent in 1 year (1904.7GB) just for this version of the documentary on Vimeo so it's just a partial picture of the actual traffic. The energy cost and GHG emissions associated with this traffic will be discussed below.
+
+(image: low9.png)
+
+I found a very satisfying tool to significantly reduce the weight of my videos without loss of apparent quality, this is (link: https://handbrake.fr text: Handbrake). It is a miraculous video conversion tool and quite easy to handle if you have the right settings. I followed Benoît Labourdette's (link: http://www.benoitlabourdette.com/IMG/pdf/2018_outils_handbrake_01.pdf text: advice) (in French) on the settings to obtain a light and good quality video.
+
+(image: low8EN.png caption: Handbrake, doctors hate him)
+
+I think the numbers are quite telling. So I reduced the weight of the hosted videos by 75% and if the traffic remains stable I would have reduced the transfer of video data by 75%. These figures are also due to some technical choices, for example I decided that the 720p (1280 * 720) format was largely necessary for the good understanding of videos. Now I work with bigger texts when doing animation or videos to avoid reading problems (just in case).
+
+(image: low10.png caption: Do not be scared, Benoit Labourdette explains the parameters of Handbrake very well)
+
+I still have to find the right settings for the documentary "Ethics for Design" because my first attempts were not conclusive. This is due to the fact that the documentary mixes video and animation and different camera profiles. So I have surprising quality losses either on the animation or on the video depending on the settings I use. I think I will find the right setting soon!
+
+# How to calculate energy consumption and CO2 emissions <a name="energy"> </a>
+
+Estimating the final energy consumption of a website is extremely complicated. Which scale to choose? Are we getting the emissions associated with the exploitation of rubber that will coat the undersea fiber optic cables? As usual with life cycle assessment the main subject is the scale we define. For digital industry energy consumption the models are generally used to calculate the energy intensity per transmitted GB to account for the electrical consumption of the digital industry, this gives a ratio of kWh consumed by transmitted GB (kWh / GB). The results differ by factor of 20000 depending on the scales and calculation methods chosen[^4] so much to say that we have not finished asking ourselves questions.
+
+(image: low11.png caption: There is food and drink for everyone)
+
+The general formula is the following to determine how much carbon dioxide is emitted by GB: determine your energy intensity value (kWh / GB) (good luck), determine your reference energy production (the country where is the equipment) and finally look at the CO2 emission factor of the energy produced in this country.
+
+For example, let's say that I rely on the model of Weber et al. (2010) which places my energy intensity at 7kWh / GB. Then I know that my server is based in London so my reference energy production will be that of the United Kingdom. Knowing this I look on the site of the European Environment Agency the CO2 emission factor of the United Kingdom, it is 281.1g CO2 / kWh. [^5] I just have to multiply my energy intensity by the CO2 emission factor and I get my CO2 emissions per GB, in my case 1977.7g CO2 / GB, or 2 kilos of CO2 per GB. If I followed the model of Coroma et al. (2013) I would probably be around 56 grams per GB.
+
+In the case of my videos hosted on Vimeo, probably in an American data center, I have to recalculate my emissions in relation to American energy production. The CO2 emission factor in the United States is about 576g CO2 / kWh according to the latest figures of the EPA [^6], this is due to their energy production highly dependent on fossil fuels. If I take the figures of the traffic of my documentary on Vimeo explained above (1904.7Go / year) then last year I would have emitted according to the model Weber et al. (2010): (7x1904.7)x576 = 7.7 tonnes of CO2. According to the model of Coroma et al. (2013) I would have emitted 219.4 kilos of CO2. In France, following the same model, I would have emitted 22.3 kilos of CO2 (nuclear energy is considered a low-carbon energy so the French energy mix is ​​very low carbon).
+
+Beyond the weight of videos the choice of the hosting service and its energy supply is important. I tried to host my videos on Peertube to avoid the power consumption of data centers and distribute the effort on several personal terminals but the experience was shorten because my videos were deleted quickly by the administrator of the chosen instance. I have no idea if the use of a p2p hosting network is more sober but I will try to continue the experiment later. For now I'm still on Vimeo with videos 75% lighter.
+
+The only way to properly track the power consumption of a site would be to use the services of WattImpact or Greenspector but these services are rather reserved for companies who must make their CSR report or buy carbon credit to reduce their impact. To count 100 € minimum to have Wattimpact active on your website.
+
+# Results <a name="results"> </a>
+
+It's been 6 years now that I work as a designer, I worked on the video production, directed digital projects, practiced some UI / UX, yet this project was the first time I felt the hyper-materiality of my practice: I have redesigned the way I negotiate with electrical, energy and technical systems behind the design and launch of this site. I finally had real energy and material constraints on which to support me and it does a lot of good, even better, it gives meaning to the approach. "Real" here means that the constraints are established in relation to a recognition of the complex systems that maintain this website and the negative impacts that these systems have on terrestrial ecosystems and on the transition objectives.
+
+If we take stock: I reduced the weight of my site by 10, the average weight of a page by more than 3 and I reduced the weight of my videos on third-party services by 4. I have a site extremely simple to administrate, very light so very fast, which consumes very little electricity and therefore emits little GHG. The site also follows all the canons of today's digital design: mobile-first, accessibility, loading speed. In fact it is quite surprising to realize that structural limitations (weight / energy) lead to navigation experiences much more accessible to all audiences regardless of their equipment, their connection or their imperative motricity or vision.
+
+Here are some results on the fly on some standard tools to measure the weight and speed of web pages.
+
+(image: low6.png caption: Good student on Pingdom, can do better with the static version)
+
+(image: low12.png caption: Teacher's pet on PageSpeed ​​Insights)
+
+We still have some work to make this site exemplary. I have to upload a new version of the static site and we need to improve the code to resize the images natively instead of using html. I also need to find a good compression of the documentary.
+
+# Tools and publications <a name="doc"> </a>
+
+To find your "green" hosting service:
+- (link: https://www.aiso.net text: Aiso)
+- (link: https://www.infomaniak.com/en/ecological-hoster text: Infomaniak)
+- (link: https://www.greengeeks.com text: Greengeeks)
+- (link: http://www.all2all.org text: all2all)
+- (link: https://www.eco-host.co text: Ecohost)
+
+Compress your media:
+- (link: https://resmush.it text: reSmushit (image))
+- (link: https://handbrake.fr text: Handbrake (video))
+
+To probe the power consumption of your site:
+- (link: https://www.wattimpact.com text: WattImpact)
+- (link: https://greenspector.com/en/ text: Greenspector)
+- (link: https://wea.greencodelab.org/en/ text: Web Energy Archive) (repository)
+
+To test the speed of your site:
+- (link: https://tools.pingdom.com text: Pingdom Tools)
+- (link: https://www.webpagetest.org text: Webpage Test)
+- (link: https://developers.google.com/speed/pagespeed/insights/ text: PageSpeed ​​Insights)
+
+To generate a radically low-tech site:
+- (link: http://txti.es text: txti)
+
+To enter the scientific publications on the calculation of the electricity consumed by the digital industry:
+- Start slowly with James Christie "(link: https://alistapart.com/article/sustainable-web-design text: Sustainable Web Design)."
+- Calculation Method Proposed by Cody Taylor and Jonathan Koomey "(link: https://www.researchgate.net/publication/238738581_Estimating_Energy_Use_and_Greenhouse_Gas_Emissions_of_Internet_Advertising text: Estimating Energy Use and Greenhouse Gas Emissions from Internet Advertising)" (2008).
+- Review of calculation methods with Vlad Coroama and Lorenz Hilty "(link: https://www.sciencedirect.com/science/article/pii/S0195925513001121 text: Assessing Internet energy intensity: A review of methods and results)" (2014 ).
+- Understand usage peaks and social practices of energy with Janine Molley et al. "(link: https://www.sciencedirect.com/science/article/pii/S2214629618301051 text: Digitization, Energy and Data Demand: The Impact of Internet Traffic on Overall and Peak Electricity Consumption)" (2018).
+
+[^1]: The Shift Project, "Lean ICT: for a sober digital", 2018 (link: https://theshiftproject.org/en/article/lean-ict-our-new-report/ text: (full report here)).
+[^2]: Eloi Laurent, "Et si nous nous trompions de transition : pour un luddisme écologique" , La Pensée écologique, 8 mars 2019 ((link: http://lapenseeecologique.com/et-si-nous-nous-trompions-de-transition-pour-un-luddisme-ecologique/ text: french article here)).
+[^3]: Phillipe Bihouix, "L'âge des Low Tech : Vers une civilisation techniquement soutenable", Seuil, Paris, 2014. 
+[^4]: Vlad C. Coroama, Lorenz M. Hilty, "Assessing Internet energy intensity: A review of methods and results" Environmental Impact Assessment Review, Volume 45, 2014, Pages 63-68.
+[^5]: European Environment Agency, "Overview of electricity production and use in Europe", 18 December 2018 ((link: https://www.eea.europa.eu/data-and-maps/indicators/overview-of-the-electricity-production-2/assessment-4 text: link to database)).
+[^6]: Environmental Protection Agency, "Inventory of U.S. Greenhouse Gas Emissions and Sinks", 2017 ((link: https://www.epa.gov/sites/production/files/2019-02/documents/us-ghg-inventory-2019-chapter-executive-summary.pdf text: full report here)).
+
+----
+
+Date: 2019-03-11 19:10
+
+----
+
+Author: - gauthierroussilhe@protonmail.com
+
+----
+
+Tags: Lowtech, Design

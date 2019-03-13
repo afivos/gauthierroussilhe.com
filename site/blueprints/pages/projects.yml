@@ -1,0 +1,26 @@
+title: Projects
+
+columns:
+  - width: 1/2
+    sections:
+      drafts:
+        extends: sections/projects
+        headline: Drafts
+        status: draft
+
+      unlisted:
+        extends: sections/projects
+        headline: In Review
+        status: unlisted
+
+    fields:
+      text:
+        type: textarea
+        size: medium
+
+  - width: 1/2
+    sections:
+      listed:
+        extends: sections/projects
+        headline: Published
+        status: listed

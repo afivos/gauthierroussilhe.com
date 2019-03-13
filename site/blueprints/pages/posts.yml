@@ -1,0 +1,26 @@
+title: Posts
+
+columns:
+  - width: 1/2
+    sections:
+      drafts:
+        extends: sections/posts
+        headline: Drafts
+        status: draft
+
+      unlisted:
+        extends: sections/posts
+        headline: In Review
+        status: unlisted
+
+    fields:
+      text:
+        type: textarea
+        size: medium
+
+  - width: 1/2
+    sections:
+      listed:
+        extends: sections/posts
+        headline: Published
+        status: listed

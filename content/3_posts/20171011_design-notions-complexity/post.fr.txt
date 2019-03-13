@@ -1,0 +1,76 @@
+Title: Notions de design : Complexité
+
+----
+
+Text: 
+
+La complexité définit souvent la densité des interactions entre les éléments d’un ou plusieurs systèmes, plus il y a d’interaction plus la complexité croit en quelque sorte. Attention toutefois à ne pas confondre ce qui est complexe et ce qui est compliqué. Là où le complexe est une densité d’interactions, le compliqué est juste une accumulation d’éléments simples.
+
+Le monde dans lequel nous évoluons nous amène à avoir une vision simple : on “analyse” un phénomène dans son instantanéité sans invoquer toutes les interactions qui lui sont liées. **On vit et voit en temps court, on fuit le long-terme et on finit alors par empiler et jamais on ne relie**. Parce qu’il favorise généralement les temps courts le design au service de l’industrie (conception, production, communication, consommation) est un outil de cette simplification du monde. Le designer actuel crée des expériences, des produits, des services qui au mieux cachent la complexité ou au pire nous en dégoûtent. Pourtant il paraît plus que nécessaire aujourd’hui de ne pas être dégoûté par la complexité de notre monde mais plutôt de l’embrasser du mieux qu’on le peut. **C’est par la tentative personnelle de compréhension du complexe que l’on s’éloigne de l’ignorance forcenée de celui qui croit savoir et qu’on quitte les berges de la superficialité**. En somme, embrasser le complexe c’est s’inviter soi-même au voyage. Dans cette perspective la pratique du Design peut devenir un incroyable outil de médiation de la complexité car il embarque naturellement un des éléments les plus complexes (et ainsi le plus pertubateur) de notre monde au sein de sa réflexion : l’humain.
+
+# I. Pensée simple dans le design
+
+Avant d’entamer toute notion de complexité il semble pertinent de définir ce qu’est la pensée simplifiante (dite disjonctive). Il parait raisonnable de commencer notre exploration au XVIIème siècle : la pensée de Descartes a eu une influence fondamentale dans la construction et l’organisation de nos savoirs, c’est à dire une organisation par discipline. Cette pensée se retrouve dans le “Discours de la Méthode” sous forme de préceptes :
+1. **Ne recevoir aucune chose pour vraie** tant que son esprit ne l’aura clairement et distinctement assimilée préalablement.
+2. **Diviser chacune des difficultés** afin de mieux les examiner et les résoudre.
+3. **Établir un ordre de pensées**, en commençant par les objets les plus simples jusqu’aux plus complexes et divers, et ainsi de les retenir toutes et en ordre.
+4. **Passer toutes les choses en revue** afin de ne rien omettre.
+
+(image: complexity4.png caption: René Descartes sur un billet de banque)
+
+On sépara donc au fur et à mesure du temps la physique de la chimie, la chimie de la biologie, on sépara l’atome de la molécule, la molécule de la cellule… L’organisation complexe du monde et du vivant fut ainsi séparée ou disjonctée, c’est à dire chaque chose devint un objet d’étude indépendant de son milieu ou contexte. Le cartésianisme (l’interprétation et la mise en application de la pensée de Descartes) a atteint certaines limites : en séparant toute chose de son ensemble on se coupe aussi d’une partie du réel. Ce réel que nous avons tronqué peut difficilement être ignoré quand il s’agit de comprendre des phénomènes que l’on ne peut pas reproduire ou isoler en laboratoire sans changer fondamentalement la nature de l’objet étudé.
+La pensée simple est un outil de maîtrise du réel et non un outil de compréhension du réel. Elle isole, divise, compartimente et s’essaye à apporter une réponse simple à toute chose et à tout phénomène. Cette démarche nous paraît si logique que nous ne la questionnons même plus. Voici les principes de la pensée simplifiante tels qu’ils ont été identifié par Edgar Morin, ce qu’il appelle le “paradigme de simplification” :[^1]
+
+1. **Disjonction**, cela consiste à séparer la chose étudiée de tout ce qui lui est liée. On choisit le domaine auquel correspond la chose et on élimine tous les autres domaines de l’étude. Par exemple, “j’ai mal au ventre” implique que le diagnostic sera établi en s’appuyant uniquement sur nos connaissances de biologie. Les restes des disciplines et champs de connaissances sont révoqués.
+2. **Réduction**, du complexe au simple, une hyper-spécialisation se formule au sein de la discipline choisie. Ce qui cause le mal de ventre peut être lié au foie, à l’intestin, à l’estomac. On imagine un découpage arbitraire du réel qui donnerait l’idée apparente qu’il y a un ordre simple à toute chose.
+3. **Abstraction**, on unit abstraitement les causalités. On juxtapose la diversité sans concevoir l’unité.[^2] Le mal de ventre peut être causé par une alimentation trop riche, ou peut-être par le stress, ou alors faut-il faire attention au foie.
+
+La pensée simplifiante est une démarche à éviter dans tout processus de pensée et de design. Le design étant une construction et une médiation du réel il est impensable de jeter un voile sur une partie de celui-ci. L’idéal complexe du Design peut, possiblement, être résumer ainsi : **être designer au XXIème c’est faire la médiation de l’expérience dans ses plus nombreuses réalités**. C’est ne jamais se satisfaire d’une vérité générale et donc superficielle et finalement rejeter tout raccourci intellectuel trop confortable par rapport à soi-même et au monde.
+
+# II. Design et complexité
+
+En tout point de vue le design peut devenir une pratique complexe, il est une pratique transversale dont le but est de croiser les savoirs pour arriver à une résolution “humainement intelligente” dans un contexte donné. Il doit maintenant réussir à faire converger, à relier et à faire communiquer ensemble des disciplines et des champs de connaissances différents et parfois même opposés. **En somme le design peut-il travailler hors des divisions subjectives de nos savoirs et de nos préconceptions ?** Cependant les pratiques de design utilisées à des fins commerciales ne permettent rarement la médiation de la complexité mais encouragent plutôt à la sur-simplification du monde à des fins de consommation.
+
+Avant d’aller plus loin il est nécessaire de revenir sur la définition de “complexité” et de “pensée complexe”. Edgar Morin la définit ainsi : “*est complexe ce qui ne peut se résumer en un maître mot, ce qui ne peut se ramener à une loi, ce qui ne peut se réduire à une idée simple*” et complète ainsi : “*Il ne s’agira pas de reprendre l’ambition de la pensée simple qui était de contrôler et de maîtriser le réel. Il s’agit de s’exercer à une pensée capable de traiter avec le réel, de dialoguer avec lui, de négocier avec lui*”.[^3] Il s’agit donc pour le design de situer sa pratique dans un rapport de dialogue et de négociation avec le réel. En cela les sciences humaines et sociales sont des alliés évidents qui, bien qu’ayant leurs propres défauts et défis, fournissent des méthodes d’exploration primordiales. Le travail de l’anthropologue Philippe Descola propose par exemple une écologie des relations qui ouvre une voie alternative au dualisme classique entre Nature et Culture[^4]  qui relève finalement d’un puissant anthropocentrisme et eurocentrisme.
+
+Ayant défini les termes et les enjeux j’aimerais m’attarder plus longuement sur un phénomène de design qui me paraît notable dans nos sociétés, non pas qu’il soit singulier ou nouveau mais plutôt parce que son acceptation sans forme de critique me semble dangereuse. **Ce phénomène asymétrique pourrait être nommer “sur-simplification par le design” des interactions avec un monde en complexification croissante**. Ce phénomène décrit le courant de pensée et la pratique du designer ayant pour but de simplifier simultanément l’interaction et l’interface entre l’utilisateur (humain)et son environnement (monde), ce même environnement qui se complexifie du fait des nouvelles techniques qui le modifient. Autrement dit, alors que les techniques utilisées deviennent de plus en plus complexes (électronique de pointe, nouveaux matériaux, programmation incluant des algorithmes auto-apprenants, etc), les structures socio-économiques deviennent de plus en plus complexes à organiser et finalement les produits et services délivrées visent toujours plus de simplicité et de minimalisme. La question posée ainsi est assez simple : **pourquoi les interactions et interfaces des produits et services conçus par le designer visent à la simplification alors que les technologies, qui permettent à ces mêmes interactions et interfaces d’exister, sont d’une complexité croissante ?**
+
+(image: complexity2fr.png)
+
+L’intermédiation et la médiation engendre parfois une simplification de ce qui est médié, en cela le phénomène n’est pas nouveau. Ce qui l’est, c’est la simplification d’utilisation d’une complexité quantifiable liée à des conceptions technologiques rationalisées et des pratiques globalisées. En effet la complexité humaine et sociale ne peut être englobée car elle n’est pas que rationnelle et encore moins quantifiable contrairement à la relative complexité technologique. On peut donc s’accorder sur le fait que toute tentative de simplification des interactions entre humains et sociétés ne peut pas réellement être efficace, concrète ou globalisée. De même il serait vain de demander à des designers de concevoir des produits ou services qui pourraient avancer symétriquement avec la complexité humaine et sociale qui est sans doute inatteignable avec nos conceptions actuelles.
+
+Quand on revient à la complexité technologique, qui est quantifiable et rationalisée, pourquoi ne cherchons-nous pas à faire avancer son utilisation dans une dynamique semblable ? Quand on parcoure la plupart des ressources pédagogiques à disposition des designers d’interfaces et d’interactions (UI et UX) le principal objectif est de créer une expérience sans friction, une interface “claire, flexible, familière, efficace, consistante et structurée”.[^5] Cette envie est louable si tant est que l’on sait pourquoi on le fait. **Pourquoi l’expérience devrait être claire et simple ? Est-ce que c’est parce que l’expérience proposée n’a que peu d’intérêt pour l’utilisateur et il ne devrait donc utiliser que le minimum de son temps ?** Cela me semblerait tout à fait décent. Or on voit maintenant apparaître des mécanismes dans les interfaces et les interactions, toujours simples et claires, qui essayent de maximiser le temps de l’utilisateur passé sur le service utilisé.[^6] On voit là apparaître une deuxième dynamique à la première évoquée plus haut : la complexité technologique croît, les utilisations visent à devenir de plus en plus simples, une maitrîse relative de la complexité “humaine” (comportementalisme par exemple) s’ajoute pour maximiser l’efficacité de la simplicité d’utilisation. Il s’agit là d’un fameux compresseur au milieu duquel celui qui utilise le service (l’utilisateur) est forcé à une utilisation sur-simplifiée par deux dynamiques complexes.
+
+(image: complexity3fr.png)
+
+**En utilisant “sur-simplification” dans ce contexte ce que j’entends exactement est la dissolution des éléments essentiels d’une expérience jusqu’à qu’elle ne propose aucun potentiel réflectif**. En quelque sorte c’est proposer une expérience qui cherche juste à maximiser un seul résultat (outcome) plutôt que de chercher la diversité des effets. C’est cette pratique de la sur-simplification qui gouverne aujourd’hui les méthodes de design quand il s’agit de créer des services, ayant un socle technologique, pour le grand public. La maximisation de la valeur économique des utilisations est aujourd’hui le seul critère que l’on cherche. On nous propose donc de concevoir des sites clairs, flexibles, familiers, efficaces dans le seul but de maximiser le subtantiel bénéfice économique de leur expérience. À ce titre il est intéressant de noter qu’en France, par exemple, les sites les plus compliqués, voir complexes, sont ceux des services publics dont la valeur économique de l’utilisation n’a pas besoin d’être maximisée.
+
+
+# III. La médiation de la complexité
+
+En quoi finalement la sur-simplification est un sujet d’inquiétude à mes yeux ? **La principale faillite d’une simplification de l’utilisation est la simplification du monde de l’utilisateur**. On peut supposer que le rapport de l’utilisateur peut être le suivant : puisque c’est facile à utiliser alors c’est facile à faire. Son monde et sa connaissance présumée de celui-ci se rétrécit donc au fur et à mesure qu’il vit des expériences sur-simplifiées. Et finalement quand il se retrouve confronté à des expériences et problématiques complexes il se retrouve incapable d’accepter leur capacité à être résolues par des moyens complexes qu’il ignore lui-même. On retrouve ici les dynamiques disjonctives de la pensée simplifiante citée plus haut.
+
+Bien sûr il ne s’agit pas de comprendre toutes les techniques utilisées lors de l’utilisation d’un service mais il s’agit d’être conscient de la complexité inhérente à l’utilisation du dit service, c’est en cela que le design doit jouer son rôle de médiateur. Toute expérience complexe parce qu’elle engage des liens sociaux, des liens émotionnels, des liens économiques, est finalement une expérience grâce à laquelle on apprend sur soi et sur le monde, sans forcément que cela soit de bon gré. **Alors la médiation du design devrait viser à réduire la sur-simplification en montrant la complexité, non pas en la cachant, et à créer un cadre de négociation de la complexité du monde**.
+
+Il me semble qu’un monde complexe non conçu empêche toute tentative de projection dans le futur et condamne ainsi au présent. Accepter la complexité et ses paradoxes c’est, en quelque sorte, reconquérir l’idée de futur.
+
+[^1]: Edgar Morin, Introduction à la pensée complexe (Paris: Points, 2014).
+[^2]: Edgar Morin, Introduction à la pensée complexe (Paris: Points, 2014) 19.
+[^3]: Edgar Morin, Introduction à la pensée complexe (Paris: Points, 2014) p?.
+[^4]: Philippe Descola, Beyond Nature and Culture (Chicago: Chicago Press, 2013).
+[^5]: Jane Portman "The core principles of UI design." Invision.com, 16 February 2016. 5 March 2019
+[^6]: http://captology.stanford.edu
+
+----
+
+Date: 2017-10-11 09:30
+
+----
+
+Author: 
+
+- gauthierroussilhe@protonmail.com
+
+----
+
+Tags: Design Education

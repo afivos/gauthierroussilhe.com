@@ -1,0 +1,9 @@
+title: Legal Mentions
+
+options:
+  status: false
+  read: true
+
+fields:
+  text:
+    type: textarea

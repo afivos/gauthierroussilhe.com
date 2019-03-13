@@ -1,0 +1,71 @@
+// -----------------------------------------------------------------------------
+// This file contains all styles related to the header of the site/application.
+// -----------------------------------------------------------------------------
+
+header {
+	margin-top: 1.5rem;
+	margin-bottom: 2rem;
+
+	nav {
+		&:not(.languages) {
+			padding: 0.25rem 0;
+			margin-bottom: 2rem;
+			border-top: 2px solid $text-color;
+			border-bottom: 2px solid $text-color;
+		}
+	}
+
+	.languages {
+		text-transform: uppercase;
+		margin-top: 0.5rem;
+
+		ul {
+			margin: 0;
+			padding: 0;
+		}
+
+		li {
+			margin: 0;
+			padding: 0;
+		}
+
+		li:first-of-type:after {
+			content: '/ ';
+			font-weight: normal !important;
+			margin-left: -0.25rem;
+		}
+	}
+
+	.active {
+		font-weight: bold;
+	}
+
+	ul {
+		@include horizontal-list();
+		@media (max-width: $breakpoint-md) {
+			text-align: center;
+		}
+		li {			
+			padding: 0 3rem;
+
+			@media (max-width: $breakpoint-md) {
+				padding: 0 1rem;
+			}
+		}
+	}
+
+	h6 {
+		margin-top: 1rem;
+	}
+
+	[class*="col"] {
+		@media (max-width: $breakpoint-md) {
+			padding-top: 0;
+			padding-bottom: 0;
+
+			&:last-of-type {
+				margin-bottom: 1.25rem;
+			}
+		}
+	}
+}

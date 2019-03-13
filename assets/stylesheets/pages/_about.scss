@@ -1,0 +1,88 @@
+// -----------------------------------------------------------------------------
+// This file contains styles that are specific to the Home (About) page.
+// -----------------------------------------------------------------------------
+
+.page--about {
+	article.bio {
+		margin: 5rem auto;
+		max-width: $breakpoint-text;
+
+		@media (max-width: $breakpoint-md) {
+			margin: 2.5rem auto;
+		}
+	}
+
+	figcaption {
+		background: none;
+	}
+
+	@media (min-width: $breakpoint-md) {
+		figure {
+			position: relative;
+			color: white;
+
+			figcaption {
+				position: absolute;
+				bottom: 0.2rem;
+				right: 2rem;
+				font-size: 70%;
+				width: 17.5rem;
+				font-style: normal;
+			}
+		}
+	}
+
+	hr {
+		margin: 2rem auto;
+	}
+
+	.grid {
+		@media (min-width: $breakpoint-lg) {
+			margin-bottom: 1.5rem;
+		}
+	}
+
+	.bio-details {
+		margin: 4rem auto 2.5rem;
+
+		ol {
+			counter-reset: item;
+			margin: 0;
+			padding: 0;
+
+			> li {
+				counter-increment: item;
+				list-style-type: none;
+				margin: 0;
+				padding-left: 1.25rem;
+				text-indent: -1.25rem;
+
+				&::before {
+					content: counter(item) '.';
+					display: inline-block;
+					font-weight: bold;
+					padding-right: 0.25rem;      
+					text-align: right;
+					width: 1.25rem;
+				}
+			}
+		}
+
+		@media (max-width: $breakpoint-md) {
+			margin: 2.5rem auto;
+		}
+	}
+
+	.bio-lists {
+		margin: 2.5rem auto;
+
+		ul {
+			list-style: outside disc;
+			margin-left: -0.5rem;
+
+			li {
+				padding-left: 0.5rem;
+			}
+		}
+	}
+}

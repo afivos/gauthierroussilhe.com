@@ -1,0 +1,9 @@
+title: Error
+
+options:
+  status: false
+  read: true
+
+fields:
+  text:
+    type: textarea

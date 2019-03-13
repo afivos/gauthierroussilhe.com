@@ -1,0 +1,85 @@
+Title: Denbighshire Adaptation Game
+
+----
+
+Intent: researching flood risks adaptation strategies in North Wales and designing a board game to foster citizens’ consciousness
+
+----
+
+Text: 
+
+# The Denbighshire Adaptation Game is a board game aiming to raise citizens’ awareness regarding future climatic and human-led risks, potential adaptation strategies for urban planning in the county (North Wales).
+
+This project started as a field research in the city of Rhyl located on the North Wales coastline. Rhyl was a touristic destination for workers from Manchester and Liverpool during the 20th century until it slowly lost attractiveness due to low-cost flights to Spain and Southern Europe. A Coney Island vibe surrounds the town with few seaside casinos and an old funfair. The topology of Rhyl also resides on its impressive coastal defence. Indeed Rhyl has a history of getting flooded, the most recent one only dating from 2013. The town is one of vulnerable spots on the northern Welsh coastline.
+
+(image: flood0.png caption: Rhyl and surroundings)
+
+# A paradoxical cornerstone
+ 
+Rhyl is a vulnerable point of the northern coastline yet it’s also one of the most protected. Since the 2013 flood, the coastal defence has been reinforced and few interesting initiatives have emerged. For example, the golf course along the coast has been modified to be used as a reservoir in case of flooding, 12,000 trees have been planted to mitigate flooding risks coming from the river nearby (among many others positive implications).
+
+Nevertheless, after interviewing locals, coast guards, councillors, one paradox is pinpointed: if Rhyl builds more defence the flood risk might be displaced down the coastline to more vulnerable and less prepared cities like Chester for instance. So Rhyl and the surrounding towns are faced with a dangerous role: they should continue to absorb the coming floods and be part of the coastal flooding mitigation, while not being able to build more defences. Faced by this precarious position new strategies must be found and implemented locally, the most common strategy for cities faced with these issues is ‘Adaptation and mitigation’.
+
+The climate forecast in the area are also alarming as most of Rhyl and Kinmel Bay will go under sea level if global warming continues on the same trajectory. Being under sea level doesn't mean that you would be automatically flooded, most of Netherlands live under sea level, but it means that the only thing that keep you from being flooded is a complex human-made system of dykes, reservoirs and sea defences that need to be constantly surveyed and maintained.
+
+(image: rhyl.gif caption: sea level simulation from 0 to 3.5°C)
+
+
+# The question of awareness
+
+As it was pinpointed by the Auditor General of Wales by the 2016 the Coastal Flood and Erosion Risk Management in Wales report: "*The Welsh Government has worked with partners to increase awareness of the risks of coastal flooding and erosion but there is evidence that the public still have a limited understanding of the implications of managed retreat*".[^1] The managed retreat is likely to be the main approach pushed for further development in the county, it means: "*by allowing the shoreline to move backwards and identifying a new line for coastal defences. This approach has implications where protecting the community from progressive flood risk is likely to become unsustainable in the future and residents may have to move to areas of lower risk.*"[^2]
+
+Citizens have little to no awareness regarding this approach and the implications it will have in a near future for their way of life and more globally for their town. A question remains: will this writing piece that emerged from a governmental body will really translate into action and long-term strategy?. Strategies seem to be discussed at a higher level in a top-down hierarchy and citizens are not clearly involved in the decision-making process. The question of awareness means to decide what citizens should be aware of and how do you build awareness on the selected topics. Climate change is part of a global history of human impacts on our ecosystems and the way of life of many people around the planet will drastically change, will it be intended or not. So how do you engage locally and progressively in a discussion about changes to come, for citizens, for communities within a territory?
+
+# Making a game
+
+When I came back to Rhyl and Kinmel Bay for a second field research I met with Stuart Anderson, former councillor, and Barry Griffiths, councillor, who set up the flood warden program, a volunteer initiative to inform and prevent locals about flood risks and adaptation methods (housing, evacuation plan, etc.). Barry describes their action with a reality-facing analysis: "We come to people’s frontdoor with a conversation they don’t want to have" . The way climate change adaptation policies will influence people’s way of life is indeed a complex topic and people that are the most vulnerable to flood risk tends to be the most socially and economically precarious. In this case, the implications of change meet limited agency.
+
+(image: flood2.png caption: Barry, left,and Stuart next to the sea defences)
+
+I came to Stuart and Barry with the idea to make a game to ease the conversation around a tangible object that implies to seat at a table and discuss while playing. Furthermore, the game can have an educational virtue allowing people to understand events likely to happen, possible solutions or projects and forecasted changes to come. It was aimed to be played as a family game where kids can be part of the conversation as they are even more concerned by this discussion. Even if the game didn’t reach Stuart’s expectations we’ll continue to push forward to iterate on the game and test it again with local schools and citizens.
+
+(image: flood3.png caption: Playing the game)
+
+# Game rules
+
+The game is a tile-based strategy game. Every turn two things happen: 1) water rises (assigned randomly to the board by a roll of dices); 2) an event (climatic or human-led) happens. The game is played by 2 players, one with Rhyl, one for Rhuddlan (another town) and one facilitator. The two players can decide to play cooperatively depending of their own strategy though events can push them to play together. The goal of the game is to sustain and adapt until the end of the game and to not run out of ‘resources’ (supply, energy, people, adaptation points). Players must develop their city to adapt to events and maintain their resources as the same time. The game allows a certain freedom of choice as the facilitator acts a game master with whom you can ask questions and negociate.
+
+The game is meant to be open-source and freely usable to everyone, the rulebook prototype is available for download with a paper prototype of the game.
+
+(image: flood4.png caption: Discussing with Stuart about the game)
+
+# Credits
+
+Research and design - Gauthier Roussilhe
+Rhyl local helpers and interviewees - Stuart Anderson, Barry Griffiths, Garry Davies, Andrew Richards, Marshall (Kite surf school), Gerrard Butters
+Date – June 2018
+
+[^1]: Auditor General for Wales, "(link: https://www.audit.wales/system/files/publications/Coastal-flooding-eng_0.pdf text: Coastal Flood and Erosion Risk Management in Wales)" (Cardiff: Welsh Audit Office, 2016) p.10
+[^2]: Auditor General for Wales, "(link: https://www.audit.wales/system/files/publications/Coastal-flooding-eng_0.pdf text: Coastal Flood and Erosion Risk Management in Wales)" (Cardiff: Welsh Audit Office, 2016) p.9
+
+----
+
+Date: 2018-09-15 21:00
+
+----
+
+Author: 
+
+- afivos@me.com
+
+----
+
+Category: Project
+
+----
+
+Tags: climate change, coastal risks, game design, facilitation
+
+----
+
+Description: 
+
+----
+
+Gallery: 

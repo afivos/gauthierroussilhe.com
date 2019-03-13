@@ -1,0 +1,5 @@
+Caption: Leading a workshop for UX designers in Toulouse, asking them to design a website with an limited energy budget (kWh) rather than a monetary budget (€), credits: FLUPA Toulouse
+
+----
+
+Template: about-image

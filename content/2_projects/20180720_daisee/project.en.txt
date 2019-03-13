@@ -1,0 +1,70 @@
+Title: Prats-de-Mollo
+
+----
+
+Intent: field research about a french village trying to reach energy autonomy by 2022 and contributing to their information design
+
+----
+
+Text: 
+
+Prats-de-Mollo is a French village located in the Pyrenees that aims for energy autonomy by 2022. I was part of this project as an observer and contributor for (link: https://daisee.org text: DAISEE) and their project Prats EnR.
+
+(image: prats5.png caption: electricy meter from main hydroelectric power plant's transformer)
+
+# Looking for energy
+
+The project in Prats-de-Mollo was initiated by the meeting of David Genet, a local electrician, and DAISEE, an open design program for energy as a Common(s). The village is located in the eastern part of the Pyrenees and has a population of 1,000 inhabitants. Each year the final energy consumption of the village is around 6.5 GWh.
+
+(image: prats6.png caption: turbine from main hydroelectric power plant)
+
+38% of this energy is provided by a locally-owned hydroelectric power plant. In fact, Prats-de-Mollo has its own energy company dating from 1917. The future plan is to produce 105% of its energy consumption by 2022. There is three layers to this project:
+1. **technical layer**: creating and managing an efficient and autonomous energy infrastructure;
+2. **digital layer**: creating a digital infrastructure to manage energy distribution;
+3. **civic layer**: fostering a citizen-based energy governance and community
+
+<div class="grid">
+	<div class="col-6_sm-6">
+		(image: prats3.png caption: David Genet and the team discussing with farmers that will get PV panels installed)
+	</div>
+	<div class="col-6_sm-6">
+		(image: prats4.png caption: David Genet discussing with a shepherd that will get PV panels installed too)
+	</div>
+</div>
+
+I came to the village with the idea of observing how citizens and stake-holders understand the energy transition of their village and how they are involved in the project. I followed David, the electrician, and the digital team during meetings with farmers that will get photovoltaic panels installed on their barns. I also observed a local meeting with citizens that invested in the project. 
+
+(image: prats2.png caption: public meeting of Prats' citizens that partly funded the project)
+
+Through my observations I realised the knowledge and pedagogical gap between the core team and the citizens regarding simple information such as location of the energy infrastructures in the valley and future energy system. I left my observer role to become a contributor to the project by designing maps and animations to help the core team better the communication to citizens regarding situated and technical knowledge.
+
+I've, for instance, made the animation below to explain how the energy mix will change from 2017 to 2022.
+
+<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts" src="https://peervideos.com/videos/embed/8673bf0a-af35-4ac9-afa5-bfd0aaa5597d" frameborder="0" allowfullscreen></iframe>
+
+# Next steps
+
+The project is obviously continuing until 2022 at least and I will keep contributing to it. I would like to look deeper at the whole financial ecosystem that made this project happen and be able to make maps out of it. I will also continue to follow how citizens are reacting to the project until completion and further. But most importantly, so far the project is on tracks!
+
+# Credits
+Research and design – Gauthier Roussilhe
+Special acknowledgements to: David Genet, Nicolas Loubet, Rieul Techer, (link: https://daisee.org text: DAISEE) team, Virtual Assembly team and the citizens of Prats-de-Mollo
+Date – July 2018
+
+----
+
+Date: 2018-07-20 16:25
+
+----
+
+Author: 
+
+- gauthierroussilhe@protonmail.com
+
+----
+
+Category: Observation
+
+----
+
+Tags: energy autonomy, citizen governance, systems mapping

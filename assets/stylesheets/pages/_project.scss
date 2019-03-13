@@ -1,0 +1,12 @@
+// -----------------------------------------------------------------------------
+// This file contains styles that are specific to the Project page.
+// -----------------------------------------------------------------------------
+
+.page--project {
+	.img-full {
+		@media (min-width: $breakpoint-lg) {
+			width: 920px;
+			margin-left: -137.5px;
+		}
+	}
+}

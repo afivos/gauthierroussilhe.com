@@ -1,0 +1,63 @@
+Title: Seeder
+
+----
+
+Intent: explorer les limites de l'éthique appliquée dans un secteur trouble et remettre en question la responsabilité des concepteurs
+
+----
+
+Text: 
+
+# Le «Seeder» est la première arme écologique conçue pour ceux qui veulent protéger leur famille et notre planète.
+ 
+The Seeder est une fiction explorant les synergies probables qui pourraient apparaître dans nos sociétés. Dans ce cas particulier, on suppose que les fabricants d’armes adopteraient des comportements «verts» et pourraient appliquer ainsi les principes de l’économie circulaire à leur secteur. Le résultat de cette adaptation pourrait être appelé transitions manquées ou non souhaitables.
+
+<iframe src="https://player.vimeo.com/video/322002258" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+# Les futures formes de green marketing aux États-Unis
+
+Alors que nous entrons dans un monde de plus en plus complexe, des liens inattendus doivent apparaître. Pour ce cas, j’ai spéculé sur l’apparition de nouvelles formes de marketing dans les futurs États-Unis d’Amérique. J’ai examiné les tendances actuelles au sein de l’industrie et les ai combinées avec le système politique permettant un lobbying actif (ce projet a été réalisé avant les nouvelles élections américaines). La National Rifle Association est l’un des groupes de pression les plus influents des États-Unis. Elle maintient une politique favorable aux armes à feu en soutenant le point de vue conservateur et en maintenant un lobbying intense à Washington. Il y a de fortes chances que la question de la politique en matière d'armes à feu prospère et que les fabricants d'armes à feu évoluent avec de nouveaux processus de fabrication. L’un de ces processus est l’impression 3D. La fabrication à domicile et le prototypage rapide permis par l’impression 3D sont une énorme enjeu pour tous ceux qui en ont les moyens et qui croient au discours technologique américain. Mais l’impression 3D peut aussi signifier une manière «plus verte» de fabriquer des produits, c’est une production à la demande avec moins de logistique et de livraison, qui peut parfois utiliser du matériel recyclé.
+
+(image: seeder4.png caption: 3D render of our prototype based on Liberator's model)
+
+# Être à la fois vert et armé n'est pas contradictoire
+
+Sur la base de l'activité des lobbyistes et des progrès de l'impression en 3D, j'ai conçu une fausse arme de poing et ses slogans publicitaires visant de nouvelles familles américaines ayant des intérêts environnementaux. Cette nouvelle persona est un étrange hybride entre les profils «Fier d'être américain» et «Sauvons notre planète». Cette nouvelle persona américaine a grandi avec la peur des changements climatiques due aux activités humaines et dans un contexte géopolitique tendu où les États-Unis se retirent de leur rôle international. Ces nouvelles familles veulent se sentir protégées de la déstabilisation politique et elles veulent se sentir protégées. Elles veulent également faire de leur mieux pour ralentir le changement climatique, en achetant des panneaux solaires, en participant à un jardin et en s'essayant à un mode de vie à faible consommation.
+
+<div class="grid">
+	<div class="col-6_sm-6">
+		(image: seeder2.png caption: Printed result)
+	</div>
+	<div class="col-6_sm-6">
+		(image: seeder3.png caption: Every parts composing the gun)
+	</div>
+</div>
+
+# Le dilemme du futur designer
+
+L'éthique est ce dont le futur designer aura besoin pour faire face à ces scénarios. Nous vivons dans un monde contemporain où l'éthique a été largement mal comprise car nous étiquetons le label «éthique» à tout et n'importe quoi, nous buvons du café éthique, utilisons du papier hygiénique éthique, etc.… Nous avons oublié que l'éthique est une philosophie à mettre en action, pas une étiquette vide. Ce vide philosophique conduira à des produits absurdes, tels que le «Seeder», présentant des slogans trompeurs. Les futurs designers privilégiés doivent être formés ou au moins conscients de ce que signifie un positionnement éthique afin de pouvoir faire le meilleur choix pour leurs communautés et non pour un directeur marketing.
+
+# Crédits
+
+Recherche et design – Gauthier Roussilhe
+Design industriel – (link: https://www.julien-buisson.com text: Julien Buisson)
+Voix off – Emily Van Bel
+Date – avril 2016
+
+----
+
+Date: 2016-07-15 16:15
+
+----
+
+Author: 
+
+- gauthierroussilhe@protonmail.com
+
+----
+
+Category: Project
+
+----
+
+Tags: 3d printing, green washing, design spéculatif

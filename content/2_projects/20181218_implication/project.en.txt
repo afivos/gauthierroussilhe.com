@@ -1,0 +1,117 @@
+Title: Implication
+
+----
+
+Intent: redefining link between technological tools and ecosystems exploitation; prototyping legislative tools for public participation and negotiation
+
+----
+
+Text: 
+
+# The Implication project is both a thought experiment, a design project and a legal fiction. It has been one of my biggest investigation so far that led me to metal extractive industry, the calculation of mineral resources, the articulation of limits and performances within technological objects to the lawmaking process in U.K., citizen participation and new imaginaries of the everyday life in a world with limited resources.
+
+(image: implication7.png caption: Few pages from the resulting research publication)
+
+
+# Limits to design
+
+The whole project started from the simple observation of Apple's smartphones slowdown scandal. The company was proved guilty of slowing down older iPhones models as the OS update was too demanding for their hardware, especially their battery. This mundane event of obsolescence demonstrated that it would be possible to systemically slowdown performance of millions of devices fro one day to another, hence theoretically reducing their energy consumption (if no rebound effect is applied).
+
+This observation combined with the general agreement that we consume too much technological products and an accelerating rate. A pace that will not be sustained by ecosystems from which are extracted ores that enable the manufacturing of these technological products. It became quite obvious that tech industry was operating off ground and off limits of what our planet and our communities can sustain. So technological products are designed in order to not reflect the limits that their production systems cross. In this way, technological products live out of the material, physical, biological limits of our planet.
+
+(image: implication6.png caption: Dillon Marsh, Jubilee Mine - 6,500 tons of copper)
+
+
+I formulated the following question: how do we put back technological products into planetary limits? How will it look like?
+
+My proposition to this question was the Implication Act which can be expressed as follows: "The Implication Act is to index the maximum performance of technological tools to the state of mineral resource reserves allowing the production of these tools and their components."
+
+<iframe src="https://player.vimeo.com/video/305349265" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+# Performance, tools and reserves
+
+One of the biggest part of my research was to understand how do we extract ores, how do we ship them and how do we calculate the reserves of transformed ores (minerals, metals, etc). I've been through the geological survey of most prominent countries (U.S.A., China, U.K., France, etc.) and their calculation methods to understand there are 5 different kinds of reserves. Those reserves are mostly a statistical and artificial creations that are not meant to run out. One thing is sure, reserves give information on the flux of ores extracted from ecosystems, with real-life consequences.
+
+<iframe src="https://player.vimeo.com/video/305349817" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+Even if mineral reserves, as they are created today, are artificial, bottomless, creations, they still give an information about the deterioration level of ecosystems in specific regions. So by indexing the right reserve to the right performance we can effectively represent the level of exploitation of specific ecosystems and the damages that are done to it (pollution, water stress, deforestation, etc).
+
+(image: implication10.png caption: Cover page in the draft bill)
+
+# Implication Act: Lawmaking and public participation
+
+Once we know what performances, what reserves, what technological tools to index, how do we present it to citizens as it will influence their day-to-day activities? Looking deeper at the work of Ivan Illich I acknowledged that this part of the project should be citizen-led and not expert-led (experts as technocrats). The first thing to do was to produce a document that every citizen could review and that would be ready to be proposed through legislative process in a country like U.K. So I wrote a draft bill following the parliamentary writing rules. I've modified the draft bill to an extend that it will be easier to any citizen to understand it. Many people felt intimated by what a draft bill, with its codes, vocabulary, represents so I divided it in sections that could be reviewed separately by participants. Every participant will read and comment a different section of the bill while being given enough info to understand the underlying policies and implications behind it.
+
+<iframe src="https://player.vimeo.com/video/305351330" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+Following that I built a voting booth that I modified to host a desk and a chair. The voting booth is part of a performance what every participant is treated as a parliamentarian and is welcomed by a facilitator acting as a parliamentary assistant (me). Every participant is given a sash representing their function and is put through a scenario where they are starting their first week at the Commons and the Implication Act is the fist bill they have to defend. 
+
+(image: implication11.png caption: Booth made for public testing)
+
+This setup tried to achieve three things:
+1. To provide a known framework for citizen participation;
+2. Emphasise the legitimacy of citizens to participate in law writing by borrowing the codes and the agency of those who write them on a daily basis;
+3. Distribute the reading and amendment effort and allow crowdsourcing where every citizen is responsible for a small section of the bill.
+
+<div class="grid">
+	<div class="col-3_sm-6">
+		(image: implication15.png caption: Participants' amendments on the proposed bill, page 1)
+	</div>
+	<div class="col-3_sm-6">
+		(image: implication16.png caption: Participants' amendments on the proposed definitions)
+	</div>
+	<div class="col-3_sm-6">
+		(image: implication17.png caption: Participants' amendments on the first application)
+	</div>
+	<div class="col-3_sm-6">
+		(image: implication18.png caption: Participants' amendments on the general principle)
+	</div>
+</div>
+
+
+# Implication, negotiating boundaries to damaged Earth
+
+Finally the whole project was documented and published under the title: Implication, negotiating boundaries on damaged Earth. This book gathers all the research and fundamental shift in design practice behind this project. The book can be found (link: http://www.lulu.com/shop/gauthier-roussilhe/implication/paperback/product-23892313.html text: here).
+
+Besides the topics explained above this publication explores the concept of Anthropocene as a global framework for design practice, goes back on the economic myths behind mainstream design industry and the necessity for design to acknowledge its political nature. The book also features scenes from everyday life in a society that promulgated the Implication Act.
+
+<div class="grid">
+	<div class="col-6_sm-6">
+		(image: implication1.png caption: everyday life, scene 1: covering your low-brightness screen from light source)
+	</div>
+	<div class="col-6_sm-6">
+		(image: implication2.png caption: everyday life, scene 2: staying in the shaes to watch your phone)
+	</div>
+	<div class="col-6_sm-6">
+		(image: implication3.png caption: everyday life, scene 3: browsing phone at home in a low-light environment)
+	</div>
+	<div class="col-6_sm-6">
+		(image: implication4.png caption: everyday life, scene 4: difficulties to scan your e-ticket at gates)
+	</div>
+</div>
+
+
+# Credits
+
+Research and design - Gauthier Roussilhe
+Editorial and graphic design - (link: http://www.clement-ltn.com text: Clément le Tulle-Neyret)
+Voiceover - Lucy Hart
+Date - December 2018
+
+----
+
+Date: 2018-12-18 16:40
+
+----
+
+Author: 
+
+- gauthierroussilhe@protonmail.com
+
+----
+
+Category: Project
+
+----
+
+Tags: anthropocene, materiality, systems thinking, public participation

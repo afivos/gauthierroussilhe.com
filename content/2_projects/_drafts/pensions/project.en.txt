@@ -1,0 +1,44 @@
+Title: Pensions Schemes in UK
+
+----
+
+Intent: 
+
+----
+
+Text: 
+
+# A series of cartographies and system maps to understand the lecturers' pensions system in U.K.
+
+While working on a project about fictional economics British lecturers started a strike because their pensions system was subject to change due to an important deficit forecasted by the private company, USS, running their pension scheme. This change consisted of switching from a defined-benefit scheme (you know how much you pay, you know how much you’ll get back one retired) to a defined-contribution scheme (you know how much you pay, the money you’ll get back will depend of the performance of scheme assets on financial markets).
+
+# The forecasting of an assumption
+
+I decided to look deeper at the issue and understand on this crisis begun. I started to research every information we can get in order to understand the general system of lecturers pension and how the forecasted deficit is calculated. I produced a series of system maps to sort up all the different actors and networks involved. I understood that the forecasted deficit calculation is based on assumptions on forecasted inflation rate, forecasted life expentancy of the lecturers and the forecasted performance of the scheme's financial assets over 5, 10 and 20 years. The performance of these assets and the evolution of the inflation rate are in fact deeply linked to the Bank of England's strategy of quantitative easing that started after the 2008 financial crisis.
+
+A quote from the private company running the pension scheme is quite striking: *"The future is ultimately unknowable, so we must make a range of informed, sensible assumptions based on detailed analysis and modelling to arrive at our conclusions on future economic and social trends largely outside our control."*
+
+
+# Credits
+
+Design and research - Gauthier Roussilhe
+Color - (link: http://qiyunliu.com text: Qiyun Liu)
+Reviewers - Erin Liu, Nick Banning, Dash McDonald, Nicholas Mortimer
+
+----
+
+Date: 2018-03-30 15:35
+
+----
+
+Author: 
+
+- gauthierroussilhe@protonmail.com
+
+----
+
+Category: Project
+
+----
+
+Tags: systems cartography, finance, pensions

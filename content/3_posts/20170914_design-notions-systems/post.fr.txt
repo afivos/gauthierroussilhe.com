@@ -1,0 +1,75 @@
+Title: Notions de design : Systèmes
+
+----
+
+Text: 
+
+Le Design est difficilement définissable, il est une forme évanescente qui échappe à la poigne de celui ou celle qui voudrait se l’approprier. Cette fugacité est la force du Design, il n’est pas limité à une seule définition, il est toutes ses définitions à la fois, il traverse les disciplines mais n’existe qu’à travers elles. Le Design est définitivement humain, il s’adapte, évolue en permanence et essaye d’échapper à une pensée unique, avec plus ou moins de succès. À ce titre le design trace les contours d’une discipline hybride : **le Design n’est pas un savoir qui anime des contextes, il est un contexte qui anime des savoirs**. Le Design ne peut pas avoir de définition globale car il est uniquement définissable quand contextualisé, et les contextes d’application sont innombrables. La pratique et les objectifs du designer graphique chevronné seront rarement sembables à ceux du designer de services par exemple.
+
+Cette absence de définition ou plutôt la pluralité simultanée des définitions me permet donc de proposer une représentation supplémentaire dont le seul but est d’enrichir le regard porté sur la discipline. Une représentation qui co-existera simultanément avec les définitions existantes.
+
+# I. Le design doit-il placer l’homme au centre de tout ?
+
+Considérons que le design s’exprime comme un acte, un acte de design dont le designer en est la source émettrice. L’acte agit sur des acteurs définis. Supposons que le premier récepteur de l’acte soit l’homme, tous les courants actuels de design amènent cette évidence au fur et à mesure que les termes “human-centered” et “user-centric” se glissent dans le vocable courant du designer. **Cette anthropocentrisme a bien des bénéfices mais en positionnant l’homme au centre de tout ne projette t-il pas une ombre trop grande sur les autres éléments d’importance égale à l’homme ?** Peut-on parler d’approche centrée sur l’humain sans inclure son éco-système, acteur évidemment prépondérant car c’est dans son existence que se situe celle de l’homme. L’approche centrée sur l’humain découle d’une pensée analytique qui veut isoler l’humain –l’utilisateur– pour mieux le comprendre, mais ce faisant elle le détache de tout ce qui le compose et est composé de lui : son environnement immédiat et son éco-système.
+
+Une citation de Pascal m’est particulièrement chère : “*Je tiens pour impossible de connaître les parties sans connaître le tout, non plus que de connaître le tout sans connaître particulièrement les parties*”.[^1]
+
+L’humain fait donc parti d’un ensemble de systèmes complexes issus de son environnement naturel, de sa propre activité, de son attachement à un groupe social et culturel multiple et de bien d’autres ensembles: l’éco-système, en interaction directe avec notre acteur, supposé central, l’humain.
+
+(image: systems2.png caption: Typologie générale des systèmes, Bunge, 1979, extraite de “La Systémique” de Daniel Durand, p.32)
+
+Intégré à tant de systèmes en perpétuel équilibrage il peut paraître bien complexe de placer l’homme au centre du “tout” qu’est notre monde. En ajustement constant par rapport aux influx de tous les systèmes qui lui sont liés, l’homme est donc lui-même un système à part entière qui réagit et s’adapte. Dans une saine pratique de design placer l’homme au centre revient donc à créer une chaise à un seul pied, c’est croire à une stabilité dans la chute.
+
+Cependant même si l’homme n’est pas mesure de toute chose[^2], il est part de toute chose et toute chose est part de lui. Ainsi le design est un acte multiple qui, en influant sur le rapport de l’homme avec son environnement, influe sur l’ensemble des parties –à différentes intensités. Le designer, connaissant et travaillant pour l’homme, a alors pour devoir d’analyser et d’identifier les éléments et systèmes affectés par son travail. Pour chaque acte de design ayant des objectifs distincts, ce travail d’analyse, d’identification et de modulation est donc à réinventer à chaque nouvel acte.
+
+(image: systems3.png)
+
+# II. Design et systémique
+
+Le design est actuellement une pratique formalisée par l’homme pour l’homme. Elle a pour effet, voulu ou non, de moduler les rapports de l’humain avec tous les systèmes et ensembles en interaction avec lui. Il est donc normal qu’une centralisation de l’homme ait été opérée par le passé. Toutefois, comme j’ai pu expliquer plus haut, il est généralement inexact d’être anthropocentré dans le contexte contemporain : **l’homme reste d’importance équivalente à chaque élément qui compose l’éco-système, ni plus important, ni moins important, juste équivalent.**
+
+Avant d’aller plus loin il me semble pertinent d’introduire ici quelques notions de systémique. L’homme est lié à chaque élément de son éco-système, soit directement soit par extension. Chaque élément a un effet sur l’homme et l’homme a un effet sur l’élément en question. Chaque élément/système de l’ensemble envoie un signal/information à l’homme qui s’adapte en conséquence et modifie (par amplification ou réduction) le signal qu’il renverra à son tour, c’est une rétroaction. Par exemple si j’écris un texte et que je le fais corriger à un ami, en fonction de ses corrections je modifierai mon texte original, j’aurais donc rétroagi (feedback). Chaque élément du système est donc en équilibrage constant par rapport aux autres et une variation prolongée peut amener à un changement d’état du système, c’est de l’auto-organisation. Par exemple, si je continue à corriger mon texte suite aux retours constants de mon correcteur, je vais considérer que mon angle d’attaque n’était pas le bon et que je vais probablement réécrire mon texte avec un nouvel axe. Edgar Morin définit cela comme un “désordre organisateur”.[^3]
+
+(image: systems4.png caption: Interprétation du schéma tiré du "Le Macroscope", Joël de Rosnay, 1975, p.110)
+
+Prenons l’exemple d’un objet de la vie quotidienne, une chaise. La chaise est une intermédiaire entre l’homme et son environnement, dans ce cas présent le sol, appartenant à l’ensemble “Environnement”.
+
+(image: systems5.png)
+
+Par exemple l’homme est fatigué et a besoin de s’asseoir. Son interaction avec l’environnement est simple, l’homme observe au préalable l’endroit le plus à même de s’asseoir en fonction de critères de confort et de sécurité : est-ce qu’il va être confortablement assis pour optimiser son temps de récupération, est-ce que le sol est humide, est-ce que l’endroit est trop ensoleillé, à l’abri d’éventuels dangers, etc. En fonction des informations fournies par l’observation, c’est à dire par les informations fournies par l’ensemble “Environnement”, l’ensemble “Homme” sélectionne les informations les plus pertinentes et prend une décision (consciente ou non). Les signaux qui lient les deux ensembles s’équilibrent autour des informations disponibles et sélectionnées, c’est la décision prise. Un consensus informationnel est créé. L’homme s’assiera à l’ombre de l’arbre même si cela est moins confortable parce qu’il fait trop chaud et réduire sa température a été le facteur principal dans la prise de décision. Bien sûr ces signaux sont voués à se déstabiliser à terme car le sol s’avérera peut-être trop rocailleux, pas assez confortable, peut-être que la météo aura changé. Les signaux seront donc amenés à se déséquilibrer quoi qu’il arrive et l’homme quittera sa position marquant la fin de la période assise.
+
+(image: systems6.png)
+
+En analysant les différentes périodes, fréquences et amplitudes qui définissent l’interaction entre l’ensemble “Homme” et l’ensemble “Environnement”, le designer est à même de modifier les signaux –l’acte de design– grâce à un médiateur, une assise. L’intégration de l’assise dans l’interaction entre systèmes va la modifier directement, une assise plus confortable va créer des périodes en position assise plus longues ou plus courtes. Cette chaise comme médiateur connaitra une série d’itérations qui correspondra aux modifications des signaux informatifs entre les deux ensembles et donc à la création d’une nouvelle forme d’assise. Pour palier à toute interrogation sur qui influence l’autre (l’histoire de l’oeuf ou de la poule), il semble important de rappeler qu’il n’a pas d’ordre ou de hiérarchie dans ce processus. A titre d’exemple Edgar Morin nous rappelle : “*La société est produite par les interactions entre individus, mais la société, une fois produite, rétroagit sur les individus et les produit*”.[^4]
+
+# III. Comment l’acte de design s’exprime t-il dans le(s) système(s) ?
+
+**L’acte de design est réellement une action dans le système qui l’abrite mais à l’échelle de l’éco-système l’action devient phénomène**, une phénomène de médiation et de modification de l’interaction qui relie chaque système au système “Homme”. On peut alors parler de phénomène de design. Cette re-définition permet de concevoir l’acte de design non plus comme une action unique et à impact temporaire et limité mais de l’intégrer à un “tout” modifié durablement par chaque médiation.
+Il est important de comprendre pour celui qui engendre l’acte de design les conséquences une fois que celui-ci devient phénomène. L’acte de design répond à une hypothèse, une observation, un constat, un but et il exerce son plein potentiel vers cela. Toutefois l’acte de design devient phénomène quand la réponse créée, qu’elle soit pertinente ou non, modifie les signaux qui lient les systèmes entre eux, que ce soit voulu ou non. Il paraît difficile pour le designer de pouvoir mesurer pleinement l’impact de l’acte sur les systèmes avec les outils à disposition. **Alors le premier pas est de comprendre que l’acte de design ne limite pas à ce que l’on souhaite qu’il devienne mais à ce qu’il fait émerger simultanément dans tout ce qui nous est lié.**
+
+En reprenant le typologie générale des système de Burge une première modélisation permet de mieux comprendre le phénomène de design.
+
+(image: systems7.png)
+
+Cette ébauche de re-définition du design a un but multiple. **Premièrement c’est une invitation à la prudence. Chaque acte de design peut avoir des répercussions, à court terme et à long terme sous estimées**. Il est nécessaire pour le futur designer d’accepter la complexité du monde, et par extension des multiples interactions entre systèmes, et de ne pas se laisser aveugler par une superficialité apparente. 
+
+Il en va de même avec la question de l’éthique professionnelle, c’est à dire de la responsabilité du designer. Bien sûr Il est inhumain de demander à un designer de prendre la responsabilité de toutes les interactions souhaitées et non-souhaitées de son acte car sa compétence professionnelle est limitée. Toutefois il ne peut pas être ignorant des interactions et conséquences inhérentes à son acte, c’est à lui d’identifier là où ses compétences sont pertinentes et influentes dans les dynamiques du système et c’est à lui de tout mettre en oeuvre pour veiller à la nature apaisée des interactions modifiées. **C’est là une question de décence et de dignité**.
+
+[^1]: Blaise Pascal, Pensées (Paris: Havet) I, 1.
+[^2]: "*Man is the measure of all things*", Plato, Theaetetus, 152a.
+[^3]: Edgar Morin, Introduction à la pensée complexe (Paris: Points, 2014)
+[^4]: Edgar Morin, Introduction à la pensée complexe (Paris: Points, 2014) 100.
+
+----
+
+Date: 2016-03-04 21:45
+
+----
+
+Author: 
+
+- gauthierroussilhe@protonmail.com
+
+----
+
+Tags: Design Education

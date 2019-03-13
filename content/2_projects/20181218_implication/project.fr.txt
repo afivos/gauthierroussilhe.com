@@ -1,0 +1,116 @@
+Title: Implication
+
+----
+
+Intent: redéfinir le lien entre outils technologiques et exploitation des écosystèmes, prototyper des outils législatifs pour la participation publique et la négociation citoyenne
+
+----
+
+Text: 
+
+# Le projet d'Implication est à la fois une expérience de pensée, un projet de design et une fiction légale. C’est jusqu’à présent l’une de mes investigations les plus importantes qui m’a conduit de l’industrie extractive des métaux, du calcul des ressources minérales, de l’articulation des limites et des performances technologiques, au processus législatif au Royaume-Uni, à la participation citoyenne et aux nouveaux imaginaires du quotidien un monde avec des ressources limitées.
+
+(image: implication7.png caption: Few pages from the resulting research publication)
+
+
+# Design des limites
+
+L'ensemble du projet a commencé à partir de la simple observation du scandale du ralentissement des smartphones d'Apple. La société a été reconnue coupable de ralentissement des anciens modèles d’iPhones car la mise à jour du système d’exploitation était trop exigeante pour leur hardware, en particulier leur batterie. Cet événement malheureusement banal d'obsolescence a démontré qu'il était possible de ralentir systématiquement les performances de millions d'appareils d'un jour sur l'autre, réduisant ainsi théoriquement leur consommation d'énergie (si aucun effet de rebond n'est appliqué).
+
+À cette observation s’ajoute la reconnaissance commune selon laquelle nous consommons trop de produits technologiques de plus en plus vite. Un rythme qui ne sera pas soutenu par les écosystèmes d'où sont extraits les minerais permettant la fabrication de ces produits technologiques. Il est devenu évident que les industries high-tech fonctionnent au-delà de ce que notre planète et nos communautés peuvent supporter. Les produits technologiques sont donc conçus de manière à ne pas refléter les limites que leurs systèmes de production franchissent. Les produits technologiques vivent ainsi hors des limites matérielles, physiques et biologiques de notre planète.
+
+(image: implication6.png caption: Dillon Marsh, Jubilee Mine - 6,500 tons of copper)
+
+J'ai alors formulé la question suivante: comment replacer les produits technologiques dans les limites planétaires? À quoi cela ressemblerait-il?
+
+Ma proposition à cette question a été l'Implication Act, qui peut s’exprimer ainsi: "*L'Implication Act consiste à indexer les performances maximales d'outils technologiques à l’état des réserves de ressources minérales permettant la production de ces outils et leurs composants.*"
+
+<iframe src="https://player.vimeo.com/video/305349265" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+# Performance, outils et réserves
+
+Une des parties les plus importantes de mes recherches a été de comprendre comment extraire les minerais, comment les transporter/transformer et comment calculer les réserves de minerais transformés. J'ai passé en revue les études géologiques des pays les plus pertinents (États-Unis, Chine, Royaume-Uni, France, etc.) et leurs méthodes de calcul pour comprendre qu'il existe 5 types différents de réserves. Ces réserves sont principalement des créations statistiques et artificielles qui ne sont pas destinées à s’épuiser. Une chose est sûre, les réserves fournissent des informations sur les flux de minerais extraits des écosystèmes, avec des conséquences réelles.
+
+<iframe src="https://player.vimeo.com/video/305349817" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+Même si les réserves minérales, telles qu'elles sont créées aujourd'hui, sont des créations artificielles et sans fond, elles fournissent néanmoins des informations sur le niveau de détérioration des écosystèmes dans des régions spécifiques. Ainsi, en indexant la bonne réserve sur la bonne performance, nous pouvons représenter efficacement le niveau d'exploitation de certains écosystèmes et les dommages qui lui sont causés (pollution, stress hydrique, déforestation, etc.).
+
+(image: implication10.png caption: Cover page in the draft bill)
+
+# Implication Act : législation et participation publique
+
+Une fois que nous savons quelles performances, quelles réserves, quels outils technologiques indexer, comment les présenter aux citoyens car cela influera sur leurs activités quotidiennes ? En regardant de plus près le travail d'Ivan Illich, j'ai choisi que cette partie du projet devrait être dirigée par les citoyens et non par des experts (des experts en tant que technocrates). La première chose à faire était de produire un document que chaque citoyen pourrait examiner et qui serait prêt à être proposé par le biais d'un processus législatif dans un pays comme le Royaume-Uni. J'ai donc rédigé un projet de loi conformément aux règles de rédaction du Parlement. J'ai modifié le projet de loi dans la mesure où il sera plus facile à comprendre pour tout citoyen. Beaucoup de gens se sont sentis intimidés par ce qu'un projet de loi, avec ses codes, son vocabulaire, représente, alors je l'ai divisé en sections qui pourraient être examinées séparément par les participants. Chaque participant lira et commentera une section différente du projet de loi tout en recevant suffisamment d’informations pour comprendre les enjeux et les implications sous-jacentes.
+
+<iframe src="https://player.vimeo.com/video/305351330" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+Dans cette logique j'ai construit un isoloir que j'ai modifié pour accueillir un bureau et une chaise. L'isoloir fait partie d'une performance dans laquelle chaque participant est traité comme un parlementaire et est accueilli par un facilitateur agissant en tant qu'assistant parlementaire (moi). Chaque participant reçoit un écharpe représentant sa fonction et est soumis à un scénario dans lequel il commence sa première semaine à la Chambre des communes. L'Implication Act est leur premier projet de loi à défendre.
+
+(image: implication11.png caption: Booth made for public testing)
+
+Ce scénario a tenté de réaliser trois choses:
+1. fournir un cadre connu pour la participation des citoyens;
+2. insister sur la légitimité des citoyens à participer à la rédaction des lois en empruntant les codes de ceux qui les rédigent quotidiennement;
+3. distribuer les efforts de lecture et de modification et autoriser le crowdsourcing où chaque citoyen est responsable d'une petite partie du projet de loi.
+
+<div class="grid">
+	<div class="col-3_sm-6">
+		(image: implication15.png caption: Participants' amendments on the proposed bill, page 1)
+	</div>
+	<div class="col-3_sm-6">
+		(image: implication16.png caption: Participants' amendments on the proposed definitions)
+	</div>
+	<div class="col-3_sm-6">
+		(image: implication17.png caption: Participants' amendments on the first application)
+	</div>
+	<div class="col-3_sm-6">
+		(image: implication18.png caption: Participants' amendments on the general principle)
+	</div>
+</div>
+
+
+# Implication, négocier les limites d'une Terre endommagée
+
+Enfin, l'ensemble du projet a été documenté et publié sous le titre: Implication, negotiating boundaries on damaged Earth. Ce livre rassemble toutes les recherches et les changements fondamentaux apportés aux pratiques de design derrière ce projet. Le livre peut être trouvé (link: http://www.lulu.com/shop/gauthier-roussilhe/implication/paperback/product-23892313.html text: ici).
+
+Outre les sujets expliqués ci-dessus, cette publication explore le concept d'Anthropocene en tant que cadre général pour la pratique du design, revient sur les mythes économiques qui sous-tendent l'industrie du design et la nécessité pour le design de reconnaître sa nature politique. Le livre propose aussi des scènes de la vie quotidienne dans une société qui a promulgué l'implication Act.
+
+<div class="grid">
+	<div class="col-6_sm-6">
+		(image: implication1.png caption: everyday life, scene 1: covering your low-brightness screen from light source)
+	</div>
+	<div class="col-6_sm-6">
+		(image: implication2.png caption: everyday life, scene 2: staying in the shaes to watch your phone)
+	</div>
+	<div class="col-6_sm-6">
+		(image: implication3.png caption: everyday life, scene 3: browsing phone at home in a low-light environment)
+	</div>
+	<div class="col-6_sm-6">
+		(image: implication4.png caption: everyday life, scene 4: difficulties to scan your e-ticket at gates)
+	</div>
+</div>
+
+
+# Crédits
+
+Recherche et deign - Gauthier Roussilhe
+Design éditorial et graphique - (link: http://www.clement-ltn.com text: Clément le Tulle-Neyret)
+Voix off - Lucy Hart
+Date - Décembre 2018
+
+----
+
+Date: 2018-12-18 16:40
+
+----
+
+Author: 
+
+- gauthierroussilhe@protonmail.com
+
+----
+
+Category: Project
+
+----
+
+Tags: anthropocene, materiality, systems thinking, public participation

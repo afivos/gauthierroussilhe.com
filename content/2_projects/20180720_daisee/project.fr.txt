@@ -1,0 +1,70 @@
+Title: Prats-de-Mollo
+
+----
+
+Intent: Faire une enquête de terrain sur un village français qui cherche à atteindre l'autonomie énergétique d'ici 2022 et contribuer à leur design d'informations
+
+----
+
+Text: 
+
+Prats-de-Mollo est un village français situé dans les Pyrénées qui vise l'autonomie énergétique à l'horizon 2022. J'ai participé à ce projet en tant qu'observateur et contributeur pour (link: https://daisee.org text: DAISEE) ad leur projet Prats EnR.
+
+(image: prats5.png caption: electricy meter from main hydroelectric power plant's transformer)
+
+# En quête d'énergie
+
+Le projet à Prats-de-Mollo a été lancé par la rencontre de David Genet, un électricien du village, et de DAISEE, un programme de design ouvert qui travaille sur l’énergie en tant que commun(s). Le village est situé dans la partie orientale des Pyrénées et a une population de 1000 habitants. Chaque année, la consommation finale d'énergie du village est d'environ 6,5 GWh.
+
+(image: prats6.png caption: turbine from main hydroelectric power plant)
+
+38% de cette énergie est fournie par une centrale hydroélectrique que possède la municipalité. En fait, Prats-de-Mollo a sa propre régie électrique qui date de 1917. Le futur plan est de produire 105% de sa consommation d'énergie d'ici 2022. Ce projet comporte trois dimensions:
+1. **une dimension technique**: création et gestion d’une infrastructure énergétique efficace et autonome
+2. **une dimension numérique**: création d'une infrastructure numérique pour gérer la distribution d'énergie
+3. **une dimension civique**: favoriser une gouvernance citoyenne de l'énergie 
+
+<div class="grid">
+	<div class="col-6_sm-6">
+		(image: prats3.png caption: David Genet and the team discussing with farmers that will get PV panels installed)
+	</div>
+	<div class="col-6_sm-6">
+		(image: prats4.png caption: David Genet discussing with a shepherd that will get PV panels installed too)
+	</div>
+</div>
+
+Je suis venu au village avec l'idée d'observer comment les citoyens et les parties prenantes comprennent la transition énergétique de leur village et comment ils sont impliqués dans le projet. J'ai suivi David, l'électricien originaire du village, et "l'équipe digitale" lors de réunions avec des agriculteurs qui installeront des panneaux photovoltaïques sur l'hangar de leurs bêtes. J'ai également assisté à une réunion locale avec les citoyens qui ont investi dans le projet.
+
+(image: prats2.png caption: public meeting of Prats' citizens that partly funded the project)
+
+A travers mes observations, j'ai réalisé le fossé pédagogique entre l'équipe et les citoyens concernant des informations simples telles que l'emplacement des infrastructures énergétiques dans la vallée et le futur système énergétique. J'ai quitté mon rôle d'observateur pour devenir un contributeur au projet en concevant des cartes et des animations pour aider l'équipe à améliorer la communication avec les citoyens concernant les connaissances localisées et techniques du projet.
+
+J'ai, par exemple, réalisé l'animation ci-dessous pour expliquer comment le mix énergétique changera de 2017 à 2022.
+
+<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts" src="https://peervideos.com/videos/embed/8673bf0a-af35-4ac9-afa5-bfd0aaa5597d" frameborder="0" allowfullscreen></iframe>
+
+# Prochaines étapes
+
+Le projet se poursuit évidemment au moins jusqu'en 2022 et je continuerai d'y contribuer. Je voudrais approfondir l’ensemble de l’écosystème financier qui a permis la réalisation de ce projet et pouvoir en faire des cartographies. Je continuerai également à suivre la réaction et l'adaptation des citoyens au projet jusqu'à son achèvement, voire davantage. Mais surtout, jusqu'à présent, le projet est sur les rails!
+
+# Crédits
+Recherche et design – Gauthier Roussilhe
+Remerciements spéciaux à: David Genet, Nicolas Loubet, Rieul Techer, (link: https://daisee.org text: DAISEE), à l’équipe de Virtual Assembly et aux citoyens de Prats-de-Mollo.
+Date – Juillet 2018
+
+----
+
+Date: 2018-07-20 16:25
+
+----
+
+Author: 
+
+- gauthierroussilhe@protonmail.com
+
+----
+
+Category: Observation
+
+----
+
+Tags: energy autonomy, citizen governance, systems mapping
