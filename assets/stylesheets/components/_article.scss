@@ -25,12 +25,12 @@ article.article-header {
 }
 
 article.article-body {
-	margin-left: auto;
-	margin-right: auto;
 	margin-bottom: 7.5rem;
 
-	&:not(figure) {
+	>:not(.img-full) {
 		max-width: $breakpoint-text + 175px;
+		margin-left: auto;
+		margin-right: auto;
 	}
 
 	a {
