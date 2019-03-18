@@ -27,10 +27,20 @@ article.article-header {
 article.article-body {
 	margin-bottom: 7.5rem;
 
-	>:not(.img-full) {
+	p, ul, ol,
+	h1,h2,h3,h4,h5,h6,
+	figure:not(.img-full),
+	.footnotes {
 		max-width: $breakpoint-text + 175px;
 		margin-left: auto;
 		margin-right: auto;
+	}
+	
+	.img-full {
+		@media (min-width: $breakpoint-lg) {
+			width: 920px;
+			//margin-left: -137.5px;
+		}
 	}
 
 	a {
@@ -96,11 +106,6 @@ article.article-body {
 			figcaption {
 				font-size: 80%;
 			}
-		}
-
-		@media (min-width: $breakpoint-lg) {
-			width: $breakpoint-lg;
-			margin-left: -10rem;
 		}
 	}
 
